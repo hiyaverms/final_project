@@ -1,1 +1,5 @@
-/target
+*.tsv
+/target/
+*.log
+*.tmp
+*.bak
