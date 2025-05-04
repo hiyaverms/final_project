@@ -1,3 +1,6 @@
+//define functions to build the graph, compute centrality, and find the shortest path between nodes
+//(nodes are actors, edges are titles. a title is either a movie or series)
+
 use petgraph::graph::{UnGraph, NodeIndex};
 use petgraph::visit::{Bfs, IntoNodeReferences};
 use petgraph::algo::{dijkstra, connected_components};
@@ -6,7 +9,9 @@ use petgraph::unionfind::UnionFind;
 use rand::seq::IteratorRandom;
 use rand::Rng;
 
-
+// constructs an undirected graph where each actor is a node, and an edge exists between actors who co-starred in the same movie
+// it takes `movie_to_actors` which is a map of movie IDs to lists of actor IDs
+// and returns `UnGraph<String, ()>`, a graph of actor connections
 pub fn build_graph(movie_to_actors: HashMap<String, Vec<String>>) -> UnGraph<String, ()> {
     let mut graph = UnGraph::<String, ()>::new_undirected();
     let mut actor_map: HashMap<String, NodeIndex> = HashMap::new();
@@ -16,6 +21,7 @@ pub fn build_graph(movie_to_actors: HashMap<String, Vec<String>>) -> UnGraph<Str
             actor_map.entry(actor.clone()).or_insert_with(|| graph.add_node(actor.clone()));
         }
 
+        //connect pairs
         for i in 0..actors.len() {
             for j in i + 1..actors.len() {
                 let a_idx = actor_map[&actors[i]];
@@ -27,10 +33,16 @@ pub fn build_graph(movie_to_actors: HashMap<String, Vec<String>>) -> UnGraph<Str
     graph
 }
 
+//computes the number of neighbors for each node in the graph
+//the graph itself is passed as input
+//the output maps each node to its number of neighbors
 pub fn degree_centrality(graph: &UnGraph<String, ()>) -> HashMap<NodeIndex, usize> {
     graph.node_indices().map(|n| (n, graph.neighbors(n).count())).collect()
 }
 
+//computes the average distance from a node to all other nodes in the graph
+//the graph itself is passed as input
+//the output maps each node to its closeness centrality score
 pub fn closeness_centrality(graph: &UnGraph<String, ()>) -> HashMap<NodeIndex, f64> {
     let mut closeness = HashMap::new();
     for node in graph.node_indices() {
@@ -46,17 +58,23 @@ pub fn closeness_centrality(graph: &UnGraph<String, ()>) -> HashMap<NodeIndex, f
     closeness
 }
 
+//takes the graph as input and returns the number of connected components
 pub fn num_connected_components(graph: &UnGraph<String, ()>) -> usize {
     connected_components(graph)
 }
 
+//maps each component/cluster to the nodes it contains
+//input: the graph
+//output: a map from component ID to a list of NodeIndexes belonging to that component
 pub fn connected_components_map(graph: &UnGraph<String, ()>) -> HashMap<usize, Vec<NodeIndex>> {
     let mut uf = UnionFind::new(graph.node_count());
+    //union nodes connected by an edge
     for edge in graph.edge_indices() {
         let (a, b) = graph.edge_endpoints(edge).unwrap();
         uf.union(a.index(), b.index());
     }
 
+    //group nodes by component
     let mut map: HashMap<usize, Vec<NodeIndex>> = HashMap::new();
     for node in graph.node_indices() {
         let comp = uf.find(node.index());
@@ -66,11 +84,15 @@ pub fn connected_components_map(graph: &UnGraph<String, ()>) -> HashMap<usize, V
     map
 }
 
+//finds the shortest path between two nodes
+//input: the graph, the id of the first actor, the id of the second actor
+//output: the length of the path between them, if it exists 
 pub fn shortest_path_length(
     graph: &UnGraph<String, ()>,
     from: &str,
     to: &str,
 ) -> Option<usize> {
+    //map actor name to node indicies 
     let node_map: HashMap<String, NodeIndex> = graph
         .node_references()
         .map(|(idx, name)| (name.clone(), idx))
@@ -78,10 +100,14 @@ pub fn shortest_path_length(
     let start = node_map.get(from)?;
     let end = node_map.get(to)?;
 
+    //using dijkstra to find shortest path
     let res = dijkstra(graph, *start, Some(*end), |_| 1);
     res.get(end).copied()
 }
 
+//uses bfs to create a subgraph surrounding a particular actor
+//input: the full graph, the actor id mappings, the actor name, and the depth(how many steps from the actor)
+//output: an undirected subgraph containing the actor and neighbors within the given depth
 pub fn extract_subgraph_around_actor(
     graph: &UnGraph<String, ()>,
     actor_id_map: &HashMap<String, NodeIndex>,
@@ -110,7 +136,7 @@ pub fn extract_subgraph_around_actor(
             continue;
         }
 
-        for neighbor in graph.neighbors(node) {
+        for neighbor in graph.neighbors(node) { //visit each neighbor only once
             if visited.insert(neighbor) {
                 queue.push_back((neighbor, depth + 1));
             }
@@ -132,12 +158,16 @@ pub fn extract_subgraph_around_actor(
     subgraph
 }
 
+//randomly sample a set of nodes and builds a subgraph containing only them
+//input: reference to the graph, sample size, and a mutable random number generator
+//output: subgraph of the sampled nodes
 pub fn random_actor_subgraph(
     graph: &UnGraph<String, ()>,
     sample_size: usize,
     rng: &mut impl Rng,
 ) -> UnGraph<String, ()> {
     let all_nodes: Vec<_> = graph.node_indices().collect();
+    //randomly sample sample_size nodes
     let sampled_nodes: HashSet<_> = all_nodes
         .iter()
         .copied()
@@ -148,11 +178,13 @@ pub fn random_actor_subgraph(
     let mut subgraph = UnGraph::<String, ()>::new_undirected();
     let mut node_map = HashMap::new();
 
+    //add sampled nodes to new subgraph
     for &node in &sampled_nodes {
         let idx = subgraph.add_node(graph[node].clone());
         node_map.insert(node, idx);
     }
 
+    //add edges that exist in the original graph
     for &node in &sampled_nodes {
         for neighbor in graph.neighbors(node) {
             if sampled_nodes.contains(&neighbor) {
@@ -168,6 +200,9 @@ pub fn random_actor_subgraph(
     subgraph
 }
 
+//computes betweeness centrality for all nodes of the graph
+//input: reference to a graph
+//output: hashmap of the nodeidex to the centrality score
 pub fn betweenness_centrality(
     graph: &UnGraph<String, ()>,
 ) -> HashMap<NodeIndex, f64> {
@@ -190,6 +225,7 @@ pub fn betweenness_centrality(
         sigma.insert(s, 1);
         dist.insert(s, 0);
 
+        //BFS traversal to calculate shortest paths
         let mut queue = VecDeque::new();
         queue.push_back(s);
         while let Some(v) = queue.pop_front() {
@@ -207,6 +243,8 @@ pub fn betweenness_centrality(
             }
         }
 
+        //back-propagation of dependencies
+        //for centrality scores
         let mut delta: HashMap<NodeIndex, f64> = HashMap::new();
         for v in graph.node_indices() {
             delta.insert(v, 0.0);
@@ -223,6 +261,7 @@ pub fn betweenness_centrality(
         }
     }
 
+    //normalize values so the scale is consistent
     let norm = if graph.node_count() <= 2 {
         1.0
     } else {
@@ -244,6 +283,7 @@ mod tests {
     use std::collections::HashMap;
     use petgraph::graph::UnGraph;
 
+    //helper function to create sample data
     fn sample_movie_to_actors() -> HashMap<String, Vec<String>> {
         let mut data = HashMap::new();
         data.insert("m1".to_string(), vec!["a1".to_string(), "a2".to_string()]);
@@ -253,14 +293,16 @@ mod tests {
         data
     }
 
+    //test the building of the graph
     #[test]
     fn test_build_graph() {
         let data = sample_movie_to_actors();
         let graph = build_graph(data);
-        assert_eq!(graph.node_count(), 4);
-        assert_eq!(graph.edge_count(), 4);
+        assert_eq!(graph.node_count(), 4); //expect 4 actors
+        assert_eq!(graph.edge_count(), 4); //expect 4 edges
     }
 
+    //test the computation of degree centrality
     #[test]
     fn test_degree_centrality() {
         let mut movie_to_actors = HashMap::new();
@@ -271,11 +313,13 @@ mod tests {
         let graph = build_graph(movie_to_actors);
         let degrees = degree_centrality(&graph);
 
+        //all nodes should have degree 2 in this case
         for node in graph.node_indices() {
             assert_eq!(degrees[&node], 2);
         }
     }
 
+    //test the computation of closeness centrality
     #[test]
     fn test_closeness_centrality() {
         let data = sample_movie_to_actors();
@@ -287,32 +331,36 @@ mod tests {
         }
     }
 
+    //test number of connected components
     #[test]
     fn test_connected_components() {
         let data = sample_movie_to_actors();
         let graph = build_graph(data);
         let num = num_connected_components(&graph);
-        assert_eq!(num, 1);
+        assert_eq!(num, 1); //expect only one connected component due to shape of the graph
     }
 
+    //test connected component grouping
     #[test]
     fn test_connected_components_map() {
         let data = sample_movie_to_actors();
         let graph = build_graph(data);
         let comp_map = connected_components_map(&graph);
-        assert_eq!(comp_map.len(), 1);
+        assert_eq!(comp_map.len(), 1); //one component expected
         let (_, group) = comp_map.iter().next().unwrap();
-        assert_eq!(group.len(), 4);
+        assert_eq!(group.len(), 4);//component should include all four nodes
     }
 
+    //test computation of shortest path
     #[test]
     fn test_shortest_path_length() {
         let data = sample_movie_to_actors();
         let graph = build_graph(data);
         let len = shortest_path_length(&graph, "a1", "a3");
-        assert_eq!(len, Some(2));
+        assert_eq!(len, Some(2)); //path is a1->a2->a3
     }
 
+    //test extracting a subgraph within one "step" of node C
     #[test]
     fn test_extract_subgraph_around_actor() {
         let mut graph = UnGraph::<String, ()>::new_undirected();
@@ -334,15 +382,17 @@ mod tests {
         actor_id_map.insert("D".to_string(), d);
         actor_id_map.insert("E".to_string(), e);
 
+        //extract graph centered on C with depth 1
         let subgraph = extract_subgraph_around_actor(&graph, &actor_id_map, "C", 1);
         let names: HashSet<_> = subgraph.node_references().map(|(_, name)| name.clone()).collect();
-        let expected: HashSet<_> = ["B", "C", "D"].iter().map(|s| s.to_string()).collect();
+        let expected: HashSet<_> = ["B", "C", "D"].iter().map(|s| s.to_string()).collect(); //shouldnt be able to reach A
         assert_eq!(names, expected);
     }
 
+    //test generation of a random subgraph
     #[test]
     fn test_random_actor_subgraph() {
-        use rand::SeedableRng;
+        use rand::SeedableRng; //so I know what to expect
         use rand::rngs::StdRng;
 
         let data = sample_movie_to_actors(); 
@@ -360,7 +410,7 @@ mod tests {
             assert!(valid_names.contains(name));
         }
 
-        // edges must only connect sampled nodes
+        // edges must only connect valid sampled nodes
         for edge in subgraph.edge_indices() {
             let (a, b) = subgraph.edge_endpoints(edge).unwrap();
             assert_ne!(a, b);

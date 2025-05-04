@@ -1,10 +1,11 @@
+//parses the tsv such that each movie id is mapped to a list of actor ids and each actor id is mapped to a name
 use std::collections::HashMap;
 use std::fs::File;
 use csv::ReaderBuilder;
 use serde::Deserialize;
 
-#[derive(Debug, Deserialize)]
-pub struct Record {
+#[derive(Debug, Deserialize)]   //a struct representing one row of the file
+pub struct Record {             //used to link an actor to a movie and give the actor's name
     #[serde(rename = "nconst")]
     pub actor_id: String,
 
@@ -15,13 +16,13 @@ pub struct Record {
     pub movie_id: String,
 }
 
-/// Reads the TSV dataset and returns:
-/// 1. a hashmap mapping each movie_id to a list of actor_ids to construct the graph
-/// 2. a hashmap mapping actor_id to actor_name so its readable
+// Reads the TSV dataset (using parameter path) and returns(as a tuple):
+// 1. a hashmap mapping each movie_id to a list of actor_ids to construct the graph
+// 2. a hashmap mapping actor_id to actor_name so its readable
 pub fn read_dataset(path: &str) -> (HashMap<String, Vec<String>>, HashMap<String, String>) {
     let file = File::open(path).expect("Cannot open file");
     let mut rdr = ReaderBuilder::new()
-        .delimiter(b'\t')
+        .delimiter(b'\t') //because it is a tsv
         .has_headers(true)
         .from_reader(file);
 

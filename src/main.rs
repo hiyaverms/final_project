@@ -25,7 +25,7 @@ fn main() {
         .map(|(idx, name)| (name.clone(), idx))
         .collect();
 
-    // target actor id
+    // target actor / center node id
     let priyanka_id = "nm1231899";
 
     // extract subgraph with depth 3
@@ -50,12 +50,13 @@ fn main() {
     }
 
 
-    //random sample graph
+    //random sample graph of 500 nodes
     let mut rng = thread_rng(); 
     let sampled_graph = random_actor_subgraph(&actor_graph, 500, &mut rng); 
 
     println!("Sampled subgraph has {} nodes and {} edges.", sampled_graph.node_count(), sampled_graph.edge_count());
 
+    // run centrality metrics on the subgraph
     println!("\nDegree Centrality on Sample:");
     for (node, deg) in degree_centrality(&sampled_graph) {
         println!("{:<35} {}", actor_id_to_name[&sampled_graph[node]], deg);
@@ -80,6 +81,7 @@ fn main() {
 
     let path_len = shortest_path_length(&actor_graph, amitabh_id, timothee_id);
 
+    //print length of path (if it exists)
     match path_len {
         Some(length) => {
             println!(
