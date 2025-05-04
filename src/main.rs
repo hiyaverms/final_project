@@ -1,37 +1,96 @@
-mod parser;
-mod graph;
+use std::collections::HashMap;
+use petgraph::graph::NodeIndex;
+use petgraph::visit::IntoNodeReferences;
+use rand::thread_rng;
 
+mod graph;
+mod parser;
+
+use graph::{
+    build_graph, degree_centrality, closeness_centrality, betweenness_centrality,
+    extract_subgraph_around_actor, shortest_path_length, random_actor_subgraph
+};
 use parser::read_dataset;
-use graph::build_graph;
 
 fn main() {
-    let path = "./actors_name_data.tsv";
-    let (movie_to_actors, actor_id_to_name) = read_dataset(path);
+    // read dataset
+    let (movie_to_actors, actor_id_to_name) = read_dataset("actor_name_data.tsv");
+
+    // build the graph
     let actor_graph = build_graph(movie_to_actors);
 
-    println!("Graph has {} nodes and {} edges.", actor_graph.node_count(), actor_graph.edge_count());
+    // create actor id to NodeIndex map
+    let actor_id_map: HashMap<String, NodeIndex> = actor_graph
+        .node_references()
+        .map(|(idx, name)| (name.clone(), idx))
+        .collect();
 
-    // degree centrality
-    let degrees = degree_centrality(&actor_graph);
-    let mut top_degree: Vec<_> = degrees.iter().collect();
-    top_degree.sort_by(|a, b| b.1.cmp(a.1));
-    println!("Top 10 actors by degree:");
-    for (actor_id, degree) in top_degree.iter().take(10) {
-        let name = actor_id_to_name.get(*actor_id).unwrap_or(&"Unknown".to_string());
-        println!("{} ({}) - {}", actor_id, name, degree);
+    // target actor id
+    let priyanka_id = "nm1231899";
+
+    // extract subgraph with depth 3
+    let subgraph = extract_subgraph_around_actor(&actor_graph, &actor_id_map, priyanka_id, 1);
+
+    println!("Subgraph contains {} nodes and {} edges.", subgraph.node_count(), subgraph.edge_count());
+
+    // run centrality metrics on the subgraph
+    println!("\nDegree Centrality:");
+    for (node, deg) in degree_centrality(&subgraph) {
+        println!("{:<35}: {:<5}", actor_id_to_name[&subgraph[node]], deg);
     }
 
-    // closeness centrality
-    let closeness = closeness_centrality(&actor_graph);
-    let mut top_closeness: Vec<_> = closeness.iter().collect();
-    top_closeness.sort_by(|a, b| b.1.partial_cmp(a.1).unwrap());
-    println!("Top 10 actors by closeness:");
-    for (actor_id, score) in top_closeness.iter().take(10) {
-        let name = actor_id_to_name.get(*actor_id).unwrap_or(&"Unknown".to_string());
-        println!("{} ({}) - {:.4}", actor_id, name, score);
+    println!("\nCloseness Centrality:");
+    for (node, c) in closeness_centrality(&subgraph) {
+        println!("{:<35}: {:<7.3}", actor_id_to_name[&subgraph[node]], c);
     }
 
-    // connected components count
-    let num_components = num_connected_components(&actor_graph);
-    println!("Number of connected components: {}", num_components);
+    println!("\nBetweenness Centrality:");
+    for (node, b) in betweenness_centrality(&subgraph) {
+        println!("{:<35}: {:<7.3}", actor_id_to_name[&subgraph[node]], b);
+    }
+
+
+    //random sample graph
+    let mut rng = thread_rng(); 
+    let sampled_graph = random_actor_subgraph(&actor_graph, 500, &mut rng); 
+
+    println!("Sampled subgraph has {} nodes and {} edges.", sampled_graph.node_count(), sampled_graph.edge_count());
+
+    println!("\nDegree Centrality on Sample:");
+    for (node, deg) in degree_centrality(&sampled_graph) {
+        println!("{:<35} {}", actor_id_to_name[&sampled_graph[node]], deg);
+    }
+
+    println!("\nCloseness Centrality on Sample:");
+    for (node, c) in closeness_centrality(&sampled_graph) {
+        println!("{:<35} {:.3}", actor_id_to_name[&sampled_graph[node]], c);
+    }
+
+    println!("\nBetweenness Centrality on Sample:");
+    for (node, b) in betweenness_centrality(&sampled_graph) {
+        println!("{:<35} {:.3}", actor_id_to_name[&sampled_graph[node]], b);
+    }
+
+
+    // find shortest path between major Bollywood actor and major Hollywood actor
+    let amitabh_id = "nm0000821"; // amitabh bachchan id
+    let timothee_id = "nm3154303"; // timothee chalamet id
+
+    println!("\nShortest Path from Amitabh Bachchan to Timothée Chalamet:");
+
+    let path_len = shortest_path_length(&actor_graph, amitabh_id, timothee_id);
+
+    match path_len {
+        Some(length) => {
+            println!(
+                "Shortest path length from {} to {}: {}",
+                actor_id_to_name[amitabh_id],
+                actor_id_to_name[timothee_id],
+                length
+            );
+        }
+        None => {
+            println!("No path found between Amitabh Bachchan and Timothée Chalamet.");
+        }
+    }
 }
