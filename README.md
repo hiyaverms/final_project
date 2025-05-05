@@ -2,7 +2,7 @@
 Project Goal: Do certain actors link groups of actors that work together? Do certain actors have significantly more connections to other actors than is average? Who are the most well-connected actors?
 
 
-Dataset: I used IMDb’s non-commercial datasets. Specifically, I used name.basics.tsv.gz and title.principals.tsv.gz.
+Dataset: I used IMDb’s non-commercial datasets. Specifically, I used name.basics.tsv.gz and title.principals.tsv.gz. My cleaned  data is here: https://drive.google.com/drive/folders/19m2i4oNvlRNCXcam_27tmER4-NjLS0Uw?usp=drive_link .
 
 
  Data Processing
