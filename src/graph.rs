@@ -34,14 +34,14 @@ pub fn build_graph(movie_to_actors: HashMap<String, Vec<String>>) -> UnGraph<Str
 }
 
 //computes the number of neighbors for each node in the graph
-//the graph itself is passed as input
+//a reference to the graph is passed as input
 //the output maps each node to its number of neighbors
 pub fn degree_centrality(graph: &UnGraph<String, ()>) -> HashMap<NodeIndex, usize> {
     graph.node_indices().map(|n| (n, graph.neighbors(n).count())).collect()
 }
 
 //computes the average distance from a node to all other nodes in the graph
-//the graph itself is passed as input
+//a reference to the graph is passed as input
 //the output maps each node to its closeness centrality score
 pub fn closeness_centrality(graph: &UnGraph<String, ()>) -> HashMap<NodeIndex, f64> {
     let mut closeness = HashMap::new();
@@ -58,13 +58,13 @@ pub fn closeness_centrality(graph: &UnGraph<String, ()>) -> HashMap<NodeIndex, f
     closeness
 }
 
-//takes the graph as input and returns the number of connected components
+//takes a reference to the graph as input and returns the number of connected components
 pub fn num_connected_components(graph: &UnGraph<String, ()>) -> usize {
     connected_components(graph)
 }
 
 //maps each component/cluster to the nodes it contains
-//input: the graph
+//input: a reference to the graph
 //output: a map from component ID to a list of NodeIndexes belonging to that component
 pub fn connected_components_map(graph: &UnGraph<String, ()>) -> HashMap<usize, Vec<NodeIndex>> {
     let mut uf = UnionFind::new(graph.node_count());
@@ -85,7 +85,7 @@ pub fn connected_components_map(graph: &UnGraph<String, ()>) -> HashMap<usize, V
 }
 
 //finds the shortest path between two nodes
-//input: the graph, the id of the first actor, the id of the second actor
+//input: a reference to the graph, the id of the first actor, the id of the second actor
 //output: the length of the path between them, if it exists 
 pub fn shortest_path_length(
     graph: &UnGraph<String, ()>,
@@ -106,7 +106,7 @@ pub fn shortest_path_length(
 }
 
 //uses bfs to create a subgraph surrounding a particular actor
-//input: the full graph, the actor id mappings, the actor name, and the depth(how many steps from the actor)
+//input: a reference to the full graph, the actor id mappings, the actor name, and the depth(how many steps from the actor)
 //output: an undirected subgraph containing the actor and neighbors within the given depth
 pub fn extract_subgraph_around_actor(
     graph: &UnGraph<String, ()>,

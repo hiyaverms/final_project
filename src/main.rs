@@ -34,20 +34,27 @@ fn main() {
     println!("Subgraph contains {} nodes and {} edges.", subgraph.node_count(), subgraph.edge_count());
 
     // run centrality metrics on the subgraph
-    println!("\nDegree Centrality:");
-    for (node, deg) in degree_centrality(&subgraph) {
+    println!("\nTop 10 Degree Centrality:");
+    let mut deg_centrality = degree_centrality(&subgraph).into_iter().collect::<Vec<_>>();
+    deg_centrality.sort_by_key(|&(_, deg)| std::cmp::Reverse(deg));
+    for (node, deg) in deg_centrality.into_iter().take(10) {
         println!("{:<35}: {:<5}", actor_id_to_name[&subgraph[node]], deg);
     }
 
-    println!("\nCloseness Centrality:");
-    for (node, c) in closeness_centrality(&subgraph) {
-        println!("{:<35}: {:<7.3}", actor_id_to_name[&subgraph[node]], c);
+    println!("\nTop 10 Closeness Centrality:");
+    let mut clo_centrality = closeness_centrality(&subgraph).into_iter().collect::<Vec<_>>();
+    clo_centrality.sort_by(|a, b| b.1.partial_cmp(&a.1).unwrap());
+    for (node, c) in clo_centrality.into_iter().take(10) {
+        println!("{:<35}: {:.3}", actor_id_to_name[&subgraph[node]], c);
     }
 
-    println!("\nBetweenness Centrality:");
-    for (node, b) in betweenness_centrality(&subgraph) {
-        println!("{:<35}: {:<7.3}", actor_id_to_name[&subgraph[node]], b);
+    println!("\nTop 10 Betweenness Centrality:");
+    let mut bet_centrality = betweenness_centrality(&subgraph).into_iter().collect::<Vec<_>>();
+    bet_centrality.sort_by(|a, b| b.1.partial_cmp(&a.1).unwrap());
+    for (node, b) in bet_centrality.into_iter().take(10) {
+        println!("{:<35}: {:.3}", actor_id_to_name[&subgraph[node]], b);
     }
+
 
 
     //random sample graph of 500 nodes
@@ -57,18 +64,24 @@ fn main() {
     println!("Sampled subgraph has {} nodes and {} edges.", sampled_graph.node_count(), sampled_graph.edge_count());
 
     // run centrality metrics on the subgraph
-    println!("\nDegree Centrality on Sample:");
-    for (node, deg) in degree_centrality(&sampled_graph) {
+    println!("\nTop 10 Degree Centrality on Sample:");
+    let mut deg_sample = degree_centrality(&sampled_graph).into_iter().collect::<Vec<_>>();
+    deg_sample.sort_by_key(|&(_, deg)| std::cmp::Reverse(deg));
+    for (node, deg) in deg_sample.into_iter().take(10) {
         println!("{:<35} {}", actor_id_to_name[&sampled_graph[node]], deg);
     }
 
-    println!("\nCloseness Centrality on Sample:");
-    for (node, c) in closeness_centrality(&sampled_graph) {
+    println!("\nTop 10 Closeness Centrality on Sample:");
+    let mut clo_sample = closeness_centrality(&sampled_graph).into_iter().collect::<Vec<_>>();
+    clo_sample.sort_by(|a, b| b.1.partial_cmp(&a.1).unwrap());
+    for (node, c) in clo_sample.into_iter().take(10) {
         println!("{:<35} {:.3}", actor_id_to_name[&sampled_graph[node]], c);
     }
 
-    println!("\nBetweenness Centrality on Sample:");
-    for (node, b) in betweenness_centrality(&sampled_graph) {
+    println!("\nTop 10 Betweenness Centrality on Sample:");
+    let mut bet_sample = betweenness_centrality(&sampled_graph).into_iter().collect::<Vec<_>>();
+    bet_sample.sort_by(|a, b| b.1.partial_cmp(&a.1).unwrap());
+    for (node, b) in bet_sample.into_iter().take(10) {
         println!("{:<35} {:.3}", actor_id_to_name[&sampled_graph[node]], b);
     }
 

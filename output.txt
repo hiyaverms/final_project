@@ -1,0 +1,2657 @@
+Subgraph contains 380 nodes and 380 edges.
+
+Degree Centrality:
+Sameera Reddy                      : 1    
+Florian Lukas                      : 1    
+Lesley Manville                    : 1    
+Yashpal Sharma                     : 1    
+Tracy Ifeachor                     : 1    
+Omar Maskati                       : 1    
+Srihari                            : 1    
+Jay Oakerson                       : 1    
+Rajatabha Dutta                    : 1    
+Marsha Stephanie Blake             : 1    
+Victor Banerjee                    : 1    
+Tom Alter                          : 1    
+Satish Shah                        : 1    
+Zoe Saldaña                        : 1    
+Paresh Rawal                       : 1    
+Isaiah Russell-Bailey              : 1    
+Jacob Artist                       : 1    
+Zac Efron                          : 1    
+Arjun Kapoor                       : 1    
+Richard Coyle                      : 1    
+Mahesh Thakur                      : 1    
+Erik Jensen                        : 1    
+Karl Urban                         : 1    
+Mahesh Manjrekar                   : 1    
+John Abraham                       : 1    
+Rajpal Naurang Yadav               : 1    
+Manav Kaul                         : 1    
+Julia Louis-Dreyfus                : 1    
+YaYa Gosselin                      : 1    
+Neil Nitin Mukesh                  : 1    
+Gary Beadle                        : 1    
+Jonathan Groff                     : 1    
+Salman Khan                        : 1    
+Ameesha Patel                      : 1    
+Celia Imrie                        : 1    
+Stacy Keach                        : 1    
+Vishwajeet Pradhan                 : 1    
+Suniel Shetty                      : 1    
+Aarón Díaz                         : 1    
+Om Puri                            : 1    
+Ashish Vidyarthi                   : 1    
+Rick Cosnett                       : 1    
+Steve Oram                         : 1    
+Brian J. Smith                     : 1    
+Sanjay Suri                        : 1    
+Vrajesh Hirjee                     : 1    
+Lara Pulver                        : 1    
+Armaan Verma                       : 1    
+Cate Blanchett                     : 1    
+Harman Baweja                      : 1    
+Lin Laishram                       : 1    
+Kanika Tiwari                      : 1    
+Dolly Bindra                       : 1    
+Deepika Padukone                   : 1    
+Nana Patekar                       : 1    
+Kirron Kher                        : 1    
+Anabelle Acosta                    : 1    
+Kurush Deboo                       : 1    
+Deepal Shaw                        : 1    
+Naseeruddin Shah                   : 1    
+Dia Mirza                          : 1    
+Resham Tipnis                      : 1    
+Hannibal Buress                    : 1    
+Gal Gadot                          : 1    
+Temuera Morrison                   : 1    
+Eric Bauza                         : 1    
+Kabir Bedi                         : 1    
+Alan Powell                        : 1    
+Pedro Pascal                       : 1    
+Pawan Malhotra                     : 1    
+Shashikala Jawalkar                : 1    
+Tanikella Bharani                  : 1    
+Govinda                            : 1    
+Richard Madden                     : 1    
+Oscar Isaac                        : 1    
+Bijou Thaangjam                    : 1    
+Kareena Kapoor                     : 1    
+Sunny Deol                         : 1    
+Ilfenesh Hadera                    : 1    
+Parvin Dabas                       : 1    
+Anang Desai                        : 1    
+Sudhanshu Pandey                   : 1    
+Gabriel Leone                      : 1    
+Audie Rick                         : 1    
+Anjan Srivastav                    : 1    
+Farhan Akhtar                      : 1    
+Ayesha Takia                       : 1    
+Sohail Khan                        : 1    
+Abbas Ali Moghul                   : 1    
+Timothy V. Murphy                  : 1    
+Zoë Kravitz                        : 1    
+Vega Tamotia                       : 1    
+Sharat Saxena                      : 1    
+Alyy Khan                          : 1    
+Dalip Tahil                        : 1    
+Cillian Murphy                     : 1    
+Shefali Shah                       : 1    
+Moira Kelly                        : 1    
+Shakti Kapoor                      : 1    
+Johny Lever                        : 1    
+Amrish Puri                        : 1    
+Michelle Rodriguez                 : 1    
+Annu Kapoor                        : 1    
+Jake McLaughlin                    : 1    
+Kenny Basumatary                   : 1    
+Konkona Sen Sharma                 : 1    
+Mahershala Ali                     : 1    
+Zack Morris                        : 1    
+Vedant Sinha                       : 1    
+Pankaj Dheer                       : 1    
+Rajshri Deshpande                  : 1    
+Roland Møller                      : 1    
+Arif Zakaria                       : 1    
+Roopak Saluja                      : 1    
+Anushka Sharma                     : 1    
+Anthony Edwards                    : 1    
+Claire Danes                       : 1    
+Sonali Kulkarni                    : 1    
+Rohit Roy                          : 1    
+Arbaaz Khan                        : 1    
+Rajesh Khattar                     : 1    
+Riteish Deshmukh                   : 1    
+Jessica Hecht                      : 1    
+Mugdha Godse                       : 1    
+Juhi Chawla                        : 1    
+Nassar                             : 1    
+Cedric The Entertainer             : 1    
+Jim Parsons                        : 1    
+Hrithik Roshan                     : 1    
+Ann Dowd                           : 1    
+J. Mallory McCree                  : 1    
+Benjamin Gilani                    : 1    
+Nicole Kidman                      : 1    
+Priyanka Chopra Jonas              : 380  
+Fredric Lehne                      : 1    
+Atul Parchure                      : 1    
+Tate Ellington                     : 1    
+Milind Soman                       : 1    
+Beena Banerjee                     : 1    
+Aunjanue Ellis-Taylor              : 1    
+Shivaji Satam                      : 1    
+Bill Farmer                        : 1    
+Ganesh Acharya                     : 1    
+Prithviraj Sukumaran               : 1    
+Prakash Raj                        : 1    
+Christina Ricci                    : 1    
+Suchitra Pillai                    : 1    
+Prem Chopra                        : 1    
+Jugal Hansraj                      : 1    
+Vivek Oberoi                       : 1    
+Olegar Fedoro                      : 1    
+Ram Charan                         : 1    
+Shah Rukh Khan                     : 1    
+Darshan Jariwala                   : 1    
+Teri Hatcher                       : 1    
+Riya Sen                           : 1    
+Dane Cook                          : 1    
+Ranbir Kapoor                      : 1    
+Neha Sharma                        : 1    
+Prachi Desai                       : 1    
+Rahul Kohli                        : 1    
+Boman Irani                        : 1    
+Anthony Mackie                     : 1    
+Sam Heughan                        : 1    
+Kader Khan                         : 1    
+Suresh Menon                       : 1    
+Mahie Gill                         : 1    
+Aditya Pancholi                    : 1    
+Nikki Amuka-Bird                   : 1    
+Karolina Wydra                     : 1    
+Ishaan Khatter                     : 1    
+Kate Winslet                       : 1    
+Prakash Jha                        : 1    
+Matt Berry                         : 1    
+Rajkummar Rao                      : 1    
+Tanay Chheda                       : 1    
+Molly Shannon                      : 1    
+Kay Kay Menon                      : 1    
+Bharat Dabholkar                   : 1    
+Céline Dion                        : 1    
+Julia Chan                         : 1    
+Atul Kulkarni                      : 1    
+Luke Kenny                         : 1    
+Jon Bass                           : 1    
+Amber Skye Noyes                   : 1    
+Rosario Dawson                     : 1    
+Supriya Karnik                     : 1    
+Jay Armstrong Johnson              : 1    
+Rohit Saraf                        : 1    
+Mark Pellegrino                    : 1    
+Carla Gugino                       : 1    
+Neil Patrick Harris                : 1    
+Joseph Vijay                       : 1    
+Mahesh Babu                        : 1    
+Vivek Vaswani                      : 1    
+Revathi                            : 1    
+Supriya Pilgaonkar                 : 1    
+Liam Hemsworth                     : 1    
+Alia Bhatt                         : 1    
+Roger Craig Smith                  : 1    
+Aubrey K. Miller                   : 1    
+Ankur Nayyar                       : 1    
+Katrina Kaif                       : 1    
+Kelly Rohrbach                     : 1    
+Arjun Rampal                       : 1    
+Ashleigh Cummings                  : 1    
+Upasana Singh                      : 1    
+Blair Underwood                    : 1    
+Abhishek Bachchan                  : 1    
+Afsaraadil                         : 1    
+Lara Dutta                         : 1    
+Shahbaaz Khan                      : 1    
+Kiran Juneja                       : 1    
+Anil Kapoor                        : 1    
+Tinnu Anand                        : 1    
+Vivaan Shah                        : 1    
+Mushtaq Khan                       : 1    
+Anupam Kher                        : 1    
+John Cleese                        : 1    
+Yatin Karyekar                     : 1    
+Kunal Kapoor                       : 1    
+Sofia Barclay                      : 1    
+Shivam Bhaargava                   : 1    
+Alexandra Daddario                 : 1    
+Farida Jalal                       : 1    
+Kelly Rutherford                   : 1    
+Nathan Darrow                      : 1    
+Lyon Daniels                       : 1    
+Keanu Reeves                       : 1    
+Jennifer Saunders                  : 1    
+Ram Awana                          : 1    
+Sunil Thapa                        : 1    
+Tanvi Azmi                         : 1    
+Chris McKinney                     : 1    
+Ranveer Singh                      : 1    
+Dayashankar Pandey                 : 1    
+Rahul Bose                         : 1    
+Aamir Khan                         : 1    
+Rob Huebel                         : 1    
+Dwayne Johnson                     : 1    
+Kim Sharma                         : 1    
+Saurabh Shukla                     : 1    
+Hunter Parrish                     : 1    
+V.M. Badola                        : 1    
+Michelle Yeoh                      : 1    
+Alexander Diachenko                : 1    
+Delhi Ganesh                       : 1    
+Ian Kahn                           : 1    
+Pooja Kumar                        : 1    
+Rajeev Verma                       : 1    
+Asawari Joshi                      : 1    
+Pearl Thusi                        : 1    
+Vikrant Massey                     : 1    
+Sienna Miller                      : 1    
+Jaylen Moore                       : 1    
+Isha Koppikar                      : 1    
+Daler Mehndi                       : 1    
+Murli Sharma                       : 1    
+Archana Puran Singh                : 1    
+Yasmine Al Massri                  : 1    
+Chris Pratt                        : 1    
+Preity G Zinta                     : 1    
+Jack Quaid                         : 1    
+Raj Babbar                         : 1    
+Brad Garrett                       : 1    
+Jada Pinkett Smith                 : 1    
+Mohan Joshi                        : 1    
+Patrick Bergin                     : 1    
+Carlos Alazraqui                   : 1    
+Zarina Wahab                       : 1    
+Will Chase                         : 1    
+Puneet Issar                       : 1    
+Jisshu Sengupta                    : 1    
+Ismael Cruz Cordova                : 1    
+Uday Chopra                        : 1    
+Lillete Dubey                      : 1    
+Betty Gilpin                       : 1    
+Johanna Braddy                     : 1    
+Rajeev Mehta                       : 1    
+Graham Rogers                      : 1    
+Lambert Wilson                     : 1    
+Omid Djalili                       : 1    
+Shiney Ahuja                       : 1    
+Anthony Ruivivar                   : 1    
+Merle Dandridge                    : 1    
+Raju Kher                          : 1    
+Idris Elba                         : 1    
+Oded Fehr                          : 1    
+Akhilendra Mishra                  : 1    
+Shashi Kiran                       : 1    
+Karan Veer Mehra                   : 1    
+Dino Morea                         : 1    
+Tána Fischerová                    : 1    
+Avtar Gill                         : 1    
+Kangana Ranaut                     : 1    
+Pradeep Singh Rawat                : 1    
+Milind Gunaji                      : 1    
+Vidya Balan                        : 1    
+Nawab Shah                         : 1    
+Tom Wu                             : 1    
+Hala Finley                        : 1    
+Carl Marino                        : 1    
+Zayed Khan                         : 1    
+John Cena                          : 1    
+Roopa Ganguly                      : 1    
+Akshaye Khanna                     : 1    
+Amitabh Bachchan                   : 1    
+Paddy Considine                    : 1    
+Samir Soni                         : 1    
+Russell Tovey                      : 1    
+Joy Sengupta                       : 1    
+Payal Rohatgi                      : 1    
+Rishi Kapoor                       : 1    
+Jon Kortajarena                    : 1    
+Arjan Bajwa                        : 1    
+Dilip Joshi                        : 1    
+Paul Bazely                        : 1    
+Jeff Bergman                       : 1    
+Vivek                              : 1    
+Eliza Coupe                        : 1    
+Mo Chara                           : 1    
+Irrfan Khan                        : 1    
+Lucy Liu                           : 1    
+Shahid Kapoor                      : 1    
+Yahya Abdul-Mateen II              : 1    
+Mukesh Rishi                       : 1    
+Danny Denzongpa                    : 1    
+Anna Khaja                         : 1    
+Amy Landecker                      : 1    
+Stanley Tucci                      : 1    
+Madhura Naik                       : 1    
+Tiku Talsania                      : 1    
+Shahana Goswami                    : 1    
+Bikramjeet Kanwarpal               : 1    
+Raza Murad                         : 1    
+Kiran Karmarkar                    : 1    
+Rekha                              : 1    
+Zubeen Garg                        : 1    
+Eduardo M. Freyre                  : 1    
+Sanjay Mishra                      : 1    
+Chukwudi Iwuji                     : 1    
+Lydia West                         : 1    
+Zaira Wasim                        : 1    
+Ileana D'Cruz                      : 1    
+Arya Babbar                        : 1    
+Marlee Matlin                      : 1    
+Rukhsar Rehman                     : 1    
+Adarsh Gourav                      : 1    
+Brian T. Delaney                   : 1    
+Mohan Agashe                       : 1    
+Rajesh Khera                       : 1    
+Parineeti Chopra                   : 1    
+Haradhan Bannerjee                 : 1    
+Roger Bart                         : 1    
+Darshan Kumaar                     : 1    
+Akshay Kumar                       : 1    
+Nick Jonas                         : 1    
+Lenny Platt                        : 1    
+Adam Devine                        : 1    
+Bobby Deol                         : 1    
+Jaya Bachchan                      : 1    
+Sanjay Dutt                        : 1    
+Lev Gorn                           : 1    
+Deb Mukherjee                      : 1    
+Vivek Shauq                        : 1    
+Andrea Bosca                       : 1    
+Himani Shivpuri                    : 1    
+Bipasha Basu                       : 1    
+Rosa Arredondo                     : 1    
+Josh Hopkins                       : 1    
+Chris Edgerly                      : 1    
+Carrie-Anne Moss                   : 1    
+Ajay Devgn                         : 1    
+Kitu Gidwani                       : 1    
+Rahul Bhat                         : 1    
+Jayne Houdyshell                   : 1    
+Kevin Kilner                       : 1    
+Octavia Spencer                    : 1    
+Ruslaan Mumtaz                     : 1    
+Chandan Roy Sanyal                 : 1    
+
+Closeness Centrality:
+Zaira Wasim                        : 0.501  
+Rajpal Naurang Yadav               : 0.501  
+Eric Bauza                         : 0.501  
+Luke Kenny                         : 0.501  
+Parineeti Chopra                   : 0.501  
+Shivaji Satam                      : 0.501  
+J. Mallory McCree                  : 0.501  
+Sonali Kulkarni                    : 0.501  
+Aditya Pancholi                    : 0.501  
+Madhura Naik                       : 0.501  
+Rekha                              : 0.501  
+Ashish Vidyarthi                   : 0.501  
+Jay Armstrong Johnson              : 0.501  
+Lyon Daniels                       : 0.501  
+Tanikella Bharani                  : 0.501  
+Mahesh Babu                        : 0.501  
+Shivam Bhaargava                   : 0.501  
+Arya Babbar                        : 0.501  
+Oscar Isaac                        : 0.501  
+Idris Elba                         : 0.501  
+Lin Laishram                       : 0.501  
+Juhi Chawla                        : 0.501  
+Lev Gorn                           : 0.501  
+Arjun Rampal                       : 0.501  
+Dane Cook                          : 0.501  
+Patrick Bergin                     : 0.501  
+Claire Danes                       : 0.501  
+Rosa Arredondo                     : 0.501  
+Beena Banerjee                     : 0.501  
+Payal Rohatgi                      : 0.501  
+Rohit Saraf                        : 0.501  
+Aubrey K. Miller                   : 0.501  
+Carrie-Anne Moss                   : 0.501  
+Zoe Saldaña                        : 0.501  
+Adam Devine                        : 0.501  
+Mohan Agashe                       : 0.501  
+Matt Berry                         : 0.501  
+Celia Imrie                        : 0.501  
+Zayed Khan                         : 0.501  
+Kangana Ranaut                     : 0.501  
+Lillete Dubey                      : 0.501  
+Aunjanue Ellis-Taylor              : 0.501  
+Amitabh Bachchan                   : 0.501  
+Mohan Joshi                        : 0.501  
+Lara Pulver                        : 0.501  
+Jisshu Sengupta                    : 0.501  
+Omar Maskati                       : 0.501  
+Kevin Kilner                       : 0.501  
+Brian J. Smith                     : 0.501  
+Eduardo M. Freyre                  : 0.501  
+Riteish Deshmukh                   : 0.501  
+Merle Dandridge                    : 0.501  
+Zubeen Garg                        : 0.501  
+Himani Shivpuri                    : 0.501  
+Deb Mukherjee                      : 0.501  
+Karl Urban                         : 0.501  
+Ishaan Khatter                     : 0.501  
+Sanjay Dutt                        : 0.501  
+Moira Kelly                        : 0.501  
+Chris McKinney                     : 0.501  
+Gabriel Leone                      : 0.501  
+Ian Kahn                           : 0.501  
+Govinda                            : 0.501  
+Mahie Gill                         : 0.501  
+Anthony Ruivivar                   : 0.501  
+Joy Sengupta                       : 0.501  
+Audie Rick                         : 0.501  
+Yasmine Al Massri                  : 0.501  
+Kim Sharma                         : 0.501  
+Nawab Shah                         : 0.501  
+Chris Pratt                        : 0.501  
+Mahesh Thakur                      : 0.501  
+Vikrant Massey                     : 0.501  
+Kurush Deboo                       : 0.501  
+Pedro Pascal                       : 0.501  
+Florian Lukas                      : 0.501  
+Bobby Deol                         : 0.501  
+Priyanka Chopra Jonas              : 1.000  
+Paddy Considine                    : 0.501  
+Roger Bart                         : 0.501  
+Ganesh Acharya                     : 0.501  
+Tanay Chheda                       : 0.501  
+Sofia Barclay                      : 0.501  
+Russell Tovey                      : 0.501  
+Alexandra Daddario                 : 0.501  
+Bill Farmer                        : 0.501  
+Isha Koppikar                      : 0.501  
+Keanu Reeves                       : 0.501  
+Sohail Khan                        : 0.501  
+Prachi Desai                       : 0.501  
+Michelle Yeoh                      : 0.501  
+Nathan Darrow                      : 0.501  
+Atul Parchure                      : 0.501  
+Naseeruddin Shah                   : 0.501  
+Chris Edgerly                      : 0.501  
+Jon Bass                           : 0.501  
+Katrina Kaif                       : 0.501  
+Kabir Bedi                         : 0.501  
+Tána Fischerová                    : 0.501  
+Jennifer Saunders                  : 0.501  
+Supriya Karnik                     : 0.501  
+Lydia West                         : 0.501  
+Kiran Karmarkar                    : 0.501  
+Roland Møller                      : 0.501  
+Vivek Shauq                        : 0.501  
+Anabelle Acosta                    : 0.501  
+Rajesh Khattar                     : 0.501  
+Sienna Miller                      : 0.501  
+Kunal Kapoor                       : 0.501  
+Anupam Kher                        : 0.501  
+Haradhan Bannerjee                 : 0.501  
+Shashi Kiran                       : 0.501  
+Jeff Bergman                       : 0.501  
+Riya Sen                           : 0.501  
+Amber Skye Noyes                   : 0.501  
+Jake McLaughlin                    : 0.501  
+Jonathan Groff                     : 0.501  
+Mark Pellegrino                    : 0.501  
+Nicole Kidman                      : 0.501  
+Lenny Platt                        : 0.501  
+Rahul Kohli                        : 0.501  
+Roopa Ganguly                      : 0.501  
+Anjan Srivastav                    : 0.501  
+Lucy Liu                           : 0.501  
+John Abraham                       : 0.501  
+Karan Veer Mehra                   : 0.501  
+Ram Charan                         : 0.501  
+Nikki Amuka-Bird                   : 0.501  
+Raza Murad                         : 0.501  
+Oded Fehr                          : 0.501  
+Richard Madden                     : 0.501  
+Ayesha Takia                       : 0.501  
+Cedric The Entertainer             : 0.501  
+Gal Gadot                          : 0.501  
+Victor Banerjee                    : 0.501  
+Vivek Vaswani                      : 0.501  
+Sunil Thapa                        : 0.501  
+Anang Desai                        : 0.501  
+Vedant Sinha                       : 0.501  
+Srihari                            : 0.501  
+Supriya Pilgaonkar                 : 0.501  
+Rajeev Mehta                       : 0.501  
+Tinnu Anand                        : 0.501  
+Molly Shannon                      : 0.501  
+Josh Hopkins                       : 0.501  
+Kirron Kher                        : 0.501  
+Rishi Kapoor                       : 0.501  
+Vivek Oberoi                       : 0.501  
+Rajesh Khera                       : 0.501  
+Shiney Ahuja                       : 0.501  
+Ann Dowd                           : 0.501  
+Rohit Roy                          : 0.501  
+Steve Oram                         : 0.501  
+Afsaraadil                         : 0.501  
+Neha Sharma                        : 0.501  
+Sudhanshu Pandey                   : 0.501  
+Bikramjeet Kanwarpal               : 0.501  
+Paresh Rawal                       : 0.501  
+Mukesh Rishi                       : 0.501  
+Tate Ellington                     : 0.501  
+Jack Quaid                         : 0.501  
+Rob Huebel                         : 0.501  
+Isaiah Russell-Bailey              : 0.501  
+Kenny Basumatary                   : 0.501  
+Ankur Nayyar                       : 0.501  
+Irrfan Khan                        : 0.501  
+Karolina Wydra                     : 0.501  
+Akhilendra Mishra                  : 0.501  
+Neil Nitin Mukesh                  : 0.501  
+Prakash Raj                        : 0.501  
+Arbaaz Khan                        : 0.501  
+Tom Wu                             : 0.501  
+Pradeep Singh Rawat                : 0.501  
+Alyy Khan                          : 0.501  
+Julia Louis-Dreyfus                : 0.501  
+Kate Winslet                       : 0.501  
+Shah Rukh Khan                     : 0.501  
+Om Puri                            : 0.501  
+Christina Ricci                    : 0.501  
+Mahershala Ali                     : 0.501  
+Harman Baweja                      : 0.501  
+Pankaj Dheer                       : 0.501  
+Temuera Morrison                   : 0.501  
+Cate Blanchett                     : 0.501  
+Pawan Malhotra                     : 0.501  
+Fredric Lehne                      : 0.501  
+Sam Heughan                        : 0.501  
+Dilip Joshi                        : 0.501  
+Rahul Bhat                         : 0.501  
+Bharat Dabholkar                   : 0.501  
+Darshan Jariwala                   : 0.501  
+Suresh Menon                       : 0.501  
+Suniel Shetty                      : 0.501  
+Saurabh Shukla                     : 0.501  
+Revathi                            : 0.501  
+Deepal Shaw                        : 0.501  
+Yatin Karyekar                     : 0.501  
+Shashikala Jawalkar                : 0.501  
+Jaylen Moore                       : 0.501  
+Carlos Alazraqui                   : 0.501  
+Hrithik Roshan                     : 0.501  
+Vidya Balan                        : 0.501  
+Arjun Kapoor                       : 0.501  
+Céline Dion                        : 0.501  
+Octavia Spencer                    : 0.501  
+Delhi Ganesh                       : 0.501  
+Dalip Tahil                        : 0.501  
+Akshay Kumar                       : 0.501  
+Lesley Manville                    : 0.501  
+Ileana D'Cruz                      : 0.501  
+Johny Lever                        : 0.501  
+Annu Kapoor                        : 0.501  
+Marlee Matlin                      : 0.501  
+Sunny Deol                         : 0.501  
+Asawari Joshi                      : 0.501  
+Arif Zakaria                       : 0.501  
+Arjan Bajwa                        : 0.501  
+Hunter Parrish                     : 0.501  
+Archana Puran Singh                : 0.501  
+Dia Mirza                          : 0.501  
+Shakti Kapoor                      : 0.501  
+Zoë Kravitz                        : 0.501  
+Benjamin Gilani                    : 0.501  
+Armaan Verma                       : 0.501  
+Salman Khan                        : 0.501  
+Andrea Bosca                       : 0.501  
+Betty Gilpin                       : 0.501  
+Boman Irani                        : 0.501  
+Vivek                              : 0.501  
+Dino Morea                         : 0.501  
+Raj Babbar                         : 0.501  
+Jada Pinkett Smith                 : 0.501  
+Kader Khan                         : 0.501  
+Mahesh Manjrekar                   : 0.501  
+Tiku Talsania                      : 0.501  
+Vrajesh Hirjee                     : 0.501  
+Nick Jonas                         : 0.501  
+Anna Khaja                         : 0.501  
+Jugal Hansraj                      : 0.501  
+Alia Bhatt                         : 0.501  
+Rajshri Deshpande                  : 0.501  
+Yahya Abdul-Mateen II              : 0.501  
+Konkona Sen Sharma                 : 0.501  
+Rukhsar Rehman                     : 0.501  
+Liam Hemsworth                     : 0.501  
+Milind Soman                       : 0.501  
+Atul Kulkarni                      : 0.501  
+Dayashankar Pandey                 : 0.501  
+Anthony Mackie                     : 0.501  
+Ranveer Singh                      : 0.501  
+Upasana Singh                      : 0.501  
+Prithviraj Sukumaran               : 0.501  
+Anthony Edwards                    : 0.501  
+Abhishek Bachchan                  : 0.501  
+Tom Alter                          : 0.501  
+Vega Tamotia                       : 0.501  
+Marsha Stephanie Blake             : 0.501  
+Kelly Rohrbach                     : 0.501  
+Zarina Wahab                       : 0.501  
+Mushtaq Khan                       : 0.501  
+Michelle Rodriguez                 : 0.501  
+Tracy Ifeachor                     : 0.501  
+Raju Kher                          : 0.501  
+Akshaye Khanna                     : 0.501  
+Roger Craig Smith                  : 0.501  
+Resham Tipnis                      : 0.501  
+Lara Dutta                         : 0.501  
+Pooja Kumar                        : 0.501  
+Erik Jensen                        : 0.501  
+Chandan Roy Sanyal                 : 0.501  
+Jacob Artist                       : 0.501  
+Satish Shah                        : 0.501  
+YaYa Gosselin                      : 0.501  
+Jayne Houdyshell                   : 0.501  
+John Cena                          : 0.501  
+Suchitra Pillai                    : 0.501  
+Kanika Tiwari                      : 0.501  
+Sharat Saxena                      : 0.501  
+Murli Sharma                       : 0.501  
+Vivaan Shah                        : 0.501  
+Hannibal Buress                    : 0.501  
+Prem Chopra                        : 0.501  
+Omid Djalili                       : 0.501  
+Ruslaan Mumtaz                     : 0.501  
+Parvin Dabas                       : 0.501  
+Lambert Wilson                     : 0.501  
+Sanjay Mishra                      : 0.501  
+Paul Bazely                        : 0.501  
+Kelly Rutherford                   : 0.501  
+Puneet Issar                       : 0.501  
+Darshan Kumaar                     : 0.501  
+Aarón Díaz                         : 0.501  
+Teri Hatcher                       : 0.501  
+Mugdha Godse                       : 0.501  
+Carla Gugino                       : 0.501  
+Jaya Bachchan                      : 0.501  
+Brian T. Delaney                   : 0.501  
+Rajkummar Rao                      : 0.501  
+Rajeev Verma                       : 0.501  
+Ajay Devgn                         : 0.501  
+Dwayne Johnson                     : 0.501  
+Farhan Akhtar                      : 0.501  
+Rahul Bose                         : 0.501  
+Pearl Thusi                        : 0.501  
+Chukwudi Iwuji                     : 0.501  
+Preity G Zinta                     : 0.501  
+Vishwajeet Pradhan                 : 0.501  
+Jay Oakerson                       : 0.501  
+Ilfenesh Hadera                    : 0.501  
+Shahid Kapoor                      : 0.501  
+Mo Chara                           : 0.501  
+Milind Gunaji                      : 0.501  
+Anil Kapoor                        : 0.501  
+Jessica Hecht                      : 0.501  
+Sanjay Suri                        : 0.501  
+Julia Chan                         : 0.501  
+Alexander Diachenko                : 0.501  
+Dolly Bindra                       : 0.501  
+Ameesha Patel                      : 0.501  
+Eliza Coupe                        : 0.501  
+Zack Morris                        : 0.501  
+Deepika Padukone                   : 0.501  
+Johanna Braddy                     : 0.501  
+Hala Finley                        : 0.501  
+Ismael Cruz Cordova                : 0.501  
+Rajatabha Dutta                    : 0.501  
+Jim Parsons                        : 0.501  
+Yashpal Sharma                     : 0.501  
+Shahbaaz Khan                      : 0.501  
+John Cleese                        : 0.501  
+Kay Kay Menon                      : 0.501  
+Abbas Ali Moghul                   : 0.501  
+Brad Garrett                       : 0.501  
+Adarsh Gourav                      : 0.501  
+Nassar                             : 0.501  
+Kareena Kapoor                     : 0.501  
+Richard Coyle                      : 0.501  
+Manav Kaul                         : 0.501  
+Rosario Dawson                     : 0.501  
+Timothy V. Murphy                  : 0.501  
+Rick Cosnett                       : 0.501  
+Blair Underwood                    : 0.501  
+Alan Powell                        : 0.501  
+Amy Landecker                      : 0.501  
+Zac Efron                          : 0.501  
+Bijou Thaangjam                    : 0.501  
+Farida Jalal                       : 0.501  
+Aamir Khan                         : 0.501  
+Jon Kortajarena                    : 0.501  
+Kiran Juneja                       : 0.501  
+Anushka Sharma                     : 0.501  
+Stanley Tucci                      : 0.501  
+Olegar Fedoro                      : 0.501  
+Ram Awana                          : 0.501  
+Shefali Shah                       : 0.501  
+Will Chase                         : 0.501  
+Uday Chopra                        : 0.501  
+Roopak Saluja                      : 0.501  
+Shahana Goswami                    : 0.501  
+Neil Patrick Harris                : 0.501  
+Gary Beadle                        : 0.501  
+Stacy Keach                        : 0.501  
+Samir Soni                         : 0.501  
+Joseph Vijay                       : 0.501  
+Sameera Reddy                      : 0.501  
+Prakash Jha                        : 0.501  
+Nana Patekar                       : 0.501  
+Daler Mehndi                       : 0.501  
+V.M. Badola                        : 0.501  
+Ashleigh Cummings                  : 0.501  
+Bipasha Basu                       : 0.501  
+Avtar Gill                         : 0.501  
+Kitu Gidwani                       : 0.501  
+Carl Marino                        : 0.501  
+Amrish Puri                        : 0.501  
+Graham Rogers                      : 0.501  
+Cillian Murphy                     : 0.501  
+Ranbir Kapoor                      : 0.501  
+Tanvi Azmi                         : 0.501  
+Danny Denzongpa                    : 0.501  
+
+Betweenness Centrality:
+Supriya Pilgaonkar                 : 0.000  
+Bobby Deol                         : 0.000  
+Amitabh Bachchan                   : 0.000  
+Jisshu Sengupta                    : 0.000  
+Yahya Abdul-Mateen II              : 0.000  
+Shivaji Satam                      : 0.000  
+Omar Maskati                       : 0.000  
+Oded Fehr                          : 0.000  
+Satish Shah                        : 0.000  
+Dalip Tahil                        : 0.000  
+Kiran Karmarkar                    : 0.000  
+Brian J. Smith                     : 0.000  
+Lara Pulver                        : 0.000  
+Atul Parchure                      : 0.000  
+Aunjanue Ellis-Taylor              : 0.000  
+Vivek                              : 0.000  
+Lillete Dubey                      : 0.000  
+Ajay Devgn                         : 0.000  
+Sohail Khan                        : 0.000  
+Arbaaz Khan                        : 0.000  
+Akhilendra Mishra                  : 0.000  
+Saurabh Shukla                     : 0.000  
+Jaylen Moore                       : 0.000  
+Sunny Deol                         : 0.000  
+Murli Sharma                       : 0.000  
+Cillian Murphy                     : 0.000  
+Jay Armstrong Johnson              : 0.000  
+Chukwudi Iwuji                     : 0.000  
+Kangana Ranaut                     : 0.000  
+Luke Kenny                         : 0.000  
+Kanika Tiwari                      : 0.000  
+Molly Shannon                      : 0.000  
+Dwayne Johnson                     : 0.000  
+Joy Sengupta                       : 0.000  
+Ileana D'Cruz                      : 0.000  
+Rahul Kohli                        : 0.000  
+Shashikala Jawalkar                : 0.000  
+Jada Pinkett Smith                 : 0.000  
+Karl Urban                         : 0.000  
+Neil Nitin Mukesh                  : 0.000  
+Arif Zakaria                       : 0.000  
+Rosa Arredondo                     : 0.000  
+Ilfenesh Hadera                    : 0.000  
+Rahul Bhat                         : 0.000  
+Zoë Kravitz                        : 0.000  
+Carla Gugino                       : 0.000  
+Dayashankar Pandey                 : 0.000  
+Tom Alter                          : 0.000  
+Christina Ricci                    : 0.000  
+Priyanka Chopra Jonas              : 2.000  
+Mo Chara                           : 0.000  
+Amy Landecker                      : 0.000  
+Prachi Desai                       : 0.000  
+Roger Bart                         : 0.000  
+Tanay Chheda                       : 0.000  
+Vedant Sinha                       : 0.000  
+Marlee Matlin                      : 0.000  
+Ayesha Takia                       : 0.000  
+Deepal Shaw                        : 0.000  
+Resham Tipnis                      : 0.000  
+Himani Shivpuri                    : 0.000  
+Cedric The Entertainer             : 0.000  
+Audie Rick                         : 0.000  
+Annu Kapoor                        : 0.000  
+Blair Underwood                    : 0.000  
+Dilip Joshi                        : 0.000  
+Pawan Malhotra                     : 0.000  
+Ashish Vidyarthi                   : 0.000  
+Jennifer Saunders                  : 0.000  
+Ganesh Acharya                     : 0.000  
+Oscar Isaac                        : 0.000  
+Rajkummar Rao                      : 0.000  
+Alyy Khan                          : 0.000  
+Brian T. Delaney                   : 0.000  
+Suniel Shetty                      : 0.000  
+Rajshri Deshpande                  : 0.000  
+Paul Bazely                        : 0.000  
+Neil Patrick Harris                : 0.000  
+Govinda                            : 0.000  
+Anabelle Acosta                    : 0.000  
+Rajpal Naurang Yadav               : 0.000  
+Hrithik Roshan                     : 0.000  
+Sanjay Dutt                        : 0.000  
+Zack Morris                        : 0.000  
+Kiran Juneja                       : 0.000  
+Ankur Nayyar                       : 0.000  
+Nana Patekar                       : 0.000  
+Supriya Karnik                     : 0.000  
+Gabriel Leone                      : 0.000  
+Betty Gilpin                       : 0.000  
+Tanikella Bharani                  : 0.000  
+Matt Berry                         : 0.000  
+Alia Bhatt                         : 0.000  
+Ashleigh Cummings                  : 0.000  
+Shahana Goswami                    : 0.000  
+Adam Devine                        : 0.000  
+Atul Kulkarni                      : 0.000  
+Om Puri                            : 0.000  
+Florian Lukas                      : 0.000  
+Steve Oram                         : 0.000  
+Afsaraadil                         : 0.000  
+Aarón Díaz                         : 0.000  
+Ranveer Singh                      : 0.000  
+Eric Bauza                         : 0.000  
+Merle Dandridge                    : 0.000  
+Ann Dowd                           : 0.000  
+Brad Garrett                       : 0.000  
+Anthony Mackie                     : 0.000  
+Rohit Saraf                        : 0.000  
+Pearl Thusi                        : 0.000  
+Fredric Lehne                      : 0.000  
+Anthony Ruivivar                   : 0.000  
+Vidya Balan                        : 0.000  
+Shahid Kapoor                      : 0.000  
+Raj Babbar                         : 0.000  
+Suchitra Pillai                    : 0.000  
+Anil Kapoor                        : 0.000  
+Paddy Considine                    : 0.000  
+Payal Rohatgi                      : 0.000  
+Pankaj Dheer                       : 0.000  
+Kabir Bedi                         : 0.000  
+Mahesh Thakur                      : 0.000  
+Ram Charan                         : 0.000  
+Yashpal Sharma                     : 0.000  
+Dolly Bindra                       : 0.000  
+Aubrey K. Miller                   : 0.000  
+Shakti Kapoor                      : 0.000  
+Sudhanshu Pandey                   : 0.000  
+Akshay Kumar                       : 0.000  
+Mahesh Babu                        : 0.000  
+Katrina Kaif                       : 0.000  
+Kim Sharma                         : 0.000  
+Stacy Keach                        : 0.000  
+Ishaan Khatter                     : 0.000  
+Tate Ellington                     : 0.000  
+Kelly Rutherford                   : 0.000  
+Armaan Verma                       : 0.000  
+Carrie-Anne Moss                   : 0.000  
+Rajesh Khera                       : 0.000  
+Michelle Yeoh                      : 0.000  
+Kitu Gidwani                       : 0.000  
+Raza Murad                         : 0.000  
+Octavia Spencer                    : 0.000  
+Gal Gadot                          : 0.000  
+Jaya Bachchan                      : 0.000  
+Eliza Coupe                        : 0.000  
+Marsha Stephanie Blake             : 0.000  
+Tinnu Anand                        : 0.000  
+Zoe Saldaña                        : 0.000  
+V.M. Badola                        : 0.000  
+Hala Finley                        : 0.000  
+Milind Soman                       : 0.000  
+Delhi Ganesh                       : 0.000  
+Rajeev Verma                       : 0.000  
+Tiku Talsania                      : 0.000  
+Mushtaq Khan                       : 0.000  
+Patrick Bergin                     : 0.000  
+Victor Banerjee                    : 0.000  
+Karolina Wydra                     : 0.000  
+Jay Oakerson                       : 0.000  
+Hunter Parrish                     : 0.000  
+Rajatabha Dutta                    : 0.000  
+Vivek Shauq                        : 0.000  
+Chris Edgerly                      : 0.000  
+Jake McLaughlin                    : 0.000  
+Jim Parsons                        : 0.000  
+Deepika Padukone                   : 0.000  
+Jon Bass                           : 0.000  
+Kay Kay Menon                      : 0.000  
+Darshan Jariwala                   : 0.000  
+Graham Rogers                      : 0.000  
+Nikki Amuka-Bird                   : 0.000  
+Cate Blanchett                     : 0.000  
+Jack Quaid                         : 0.000  
+Yatin Karyekar                     : 0.000  
+John Abraham                       : 0.000  
+Richard Madden                     : 0.000  
+Rohit Roy                          : 0.000  
+Rob Huebel                         : 0.000  
+Avtar Gill                         : 0.000  
+Roger Craig Smith                  : 0.000  
+Aamir Khan                         : 0.000  
+Claire Danes                       : 0.000  
+Arjan Bajwa                        : 0.000  
+Vivek Vaswani                      : 0.000  
+Dane Cook                          : 0.000  
+Dino Morea                         : 0.000  
+Boman Irani                        : 0.000  
+Puneet Issar                       : 0.000  
+Zac Efron                          : 0.000  
+Sanjay Suri                        : 0.000  
+Mahesh Manjrekar                   : 0.000  
+Riteish Deshmukh                   : 0.000  
+Suresh Menon                       : 0.000  
+Deb Mukherjee                      : 0.000  
+Lesley Manville                    : 0.000  
+Idris Elba                         : 0.000  
+Shahbaaz Khan                      : 0.000  
+Anupam Kher                        : 0.000  
+Yasmine Al Massri                  : 0.000  
+Anushka Sharma                     : 0.000  
+Ruslaan Mumtaz                     : 0.000  
+Bharat Dabholkar                   : 0.000  
+Zaira Wasim                        : 0.000  
+Vikrant Massey                     : 0.000  
+Kenny Basumatary                   : 0.000  
+Celia Imrie                        : 0.000  
+Isaiah Russell-Bailey              : 0.000  
+Prem Chopra                        : 0.000  
+Rukhsar Rehman                     : 0.000  
+Andrea Bosca                       : 0.000  
+Kurush Deboo                       : 0.000  
+Madhura Naik                       : 0.000  
+Josh Hopkins                       : 0.000  
+Preity G Zinta                     : 0.000  
+Akshaye Khanna                     : 0.000  
+John Cleese                        : 0.000  
+Chris McKinney                     : 0.000  
+Mahie Gill                         : 0.000  
+Shivam Bhaargava                   : 0.000  
+Nick Jonas                         : 0.000  
+Alexander Diachenko                : 0.000  
+Kelly Rohrbach                     : 0.000  
+Sofia Barclay                      : 0.000  
+Jon Kortajarena                    : 0.000  
+Prakash Raj                        : 0.000  
+Danny Denzongpa                    : 0.000  
+Parineeti Chopra                   : 0.000  
+Mark Pellegrino                    : 0.000  
+Moira Kelly                        : 0.000  
+Vega Tamotia                       : 0.000  
+Adarsh Gourav                      : 0.000  
+Richard Coyle                      : 0.000  
+Sanjay Mishra                      : 0.000  
+Zayed Khan                         : 0.000  
+Darshan Kumaar                     : 0.000  
+Lambert Wilson                     : 0.000  
+Pedro Pascal                       : 0.000  
+Nassar                             : 0.000  
+Vishwajeet Pradhan                 : 0.000  
+Lydia West                         : 0.000  
+Prakash Jha                        : 0.000  
+Sameera Reddy                      : 0.000  
+Abhishek Bachchan                  : 0.000  
+Aditya Pancholi                    : 0.000  
+Paresh Rawal                       : 0.000  
+Carl Marino                        : 0.000  
+Pooja Kumar                        : 0.000  
+Lenny Platt                        : 0.000  
+Chandan Roy Sanyal                 : 0.000  
+Farida Jalal                       : 0.000  
+Roopa Ganguly                      : 0.000  
+Russell Tovey                      : 0.000  
+Rishi Kapoor                       : 0.000  
+Uday Chopra                        : 0.000  
+Carlos Alazraqui                   : 0.000  
+Bijou Thaangjam                    : 0.000  
+Hannibal Buress                    : 0.000  
+Samir Soni                         : 0.000  
+Rekha                              : 0.000  
+Mukesh Rishi                       : 0.000  
+J. Mallory McCree                  : 0.000  
+Nawab Shah                         : 0.000  
+Michelle Rodriguez                 : 0.000  
+Juhi Chawla                        : 0.000  
+Srihari                            : 0.000  
+Vrajesh Hirjee                     : 0.000  
+Benjamin Gilani                    : 0.000  
+Isha Koppikar                      : 0.000  
+YaYa Gosselin                      : 0.000  
+Parvin Dabas                       : 0.000  
+Prithviraj Sukumaran               : 0.000  
+Asawari Joshi                      : 0.000  
+Abbas Ali Moghul                   : 0.000  
+Konkona Sen Sharma                 : 0.000  
+Sam Heughan                        : 0.000  
+Roopak Saluja                      : 0.000  
+Dia Mirza                          : 0.000  
+Keanu Reeves                       : 0.000  
+Ranbir Kapoor                      : 0.000  
+Anang Desai                        : 0.000  
+Manav Kaul                         : 0.000  
+Bill Farmer                        : 0.000  
+Céline Dion                        : 0.000  
+Bipasha Basu                       : 0.000  
+Lin Laishram                       : 0.000  
+Rajesh Khattar                     : 0.000  
+Anjan Srivastav                    : 0.000  
+Arjun Rampal                       : 0.000  
+Will Chase                         : 0.000  
+John Cena                          : 0.000  
+Eduardo M. Freyre                  : 0.000  
+Zubeen Garg                        : 0.000  
+Gary Beadle                        : 0.000  
+Jessica Hecht                      : 0.000  
+Vivek Oberoi                       : 0.000  
+Alexandra Daddario                 : 0.000  
+Arjun Kapoor                       : 0.000  
+Sienna Miller                      : 0.000  
+Kevin Kilner                       : 0.000  
+Sunil Thapa                        : 0.000  
+Ismael Cruz Cordova                : 0.000  
+Teri Hatcher                       : 0.000  
+Joseph Vijay                       : 0.000  
+Raju Kher                          : 0.000  
+Anna Khaja                         : 0.000  
+Arya Babbar                        : 0.000  
+Ian Kahn                           : 0.000  
+Roland Møller                      : 0.000  
+Alan Powell                        : 0.000  
+Upasana Singh                      : 0.000  
+Jugal Hansraj                      : 0.000  
+Kareena Kapoor                     : 0.000  
+Ram Awana                          : 0.000  
+Amrish Puri                        : 0.000  
+Shefali Shah                       : 0.000  
+Naseeruddin Shah                   : 0.000  
+Mugdha Godse                       : 0.000  
+Timothy V. Murphy                  : 0.000  
+Nathan Darrow                      : 0.000  
+Anthony Edwards                    : 0.000  
+Olegar Fedoro                      : 0.000  
+Lyon Daniels                       : 0.000  
+Ameesha Patel                      : 0.000  
+Temuera Morrison                   : 0.000  
+Archana Puran Singh                : 0.000  
+Jeff Bergman                       : 0.000  
+Liam Hemsworth                     : 0.000  
+Kirron Kher                        : 0.000  
+Johny Lever                        : 0.000  
+Jonathan Groff                     : 0.000  
+Salman Khan                        : 0.000  
+Shah Rukh Khan                     : 0.000  
+Lucy Liu                           : 0.000  
+Pradeep Singh Rawat                : 0.000  
+Erik Jensen                        : 0.000  
+Kunal Kapoor                       : 0.000  
+Mahershala Ali                     : 0.000  
+Mohan Agashe                       : 0.000  
+Omid Djalili                       : 0.000  
+Lara Dutta                         : 0.000  
+Irrfan Khan                        : 0.000  
+Haradhan Bannerjee                 : 0.000  
+Chris Pratt                        : 0.000  
+Rajeev Mehta                       : 0.000  
+Kader Khan                         : 0.000  
+Tanvi Azmi                         : 0.000  
+Rick Cosnett                       : 0.000  
+Johanna Braddy                     : 0.000  
+Beena Banerjee                     : 0.000  
+Rahul Bose                         : 0.000  
+Zarina Wahab                       : 0.000  
+Revathi                            : 0.000  
+Rosario Dawson                     : 0.000  
+Milind Gunaji                      : 0.000  
+Tom Wu                             : 0.000  
+Julia Louis-Dreyfus                : 0.000  
+Nicole Kidman                      : 0.000  
+Sonali Kulkarni                    : 0.000  
+Shiney Ahuja                       : 0.000  
+Karan Veer Mehra                   : 0.000  
+Shashi Kiran                       : 0.000  
+Lev Gorn                           : 0.000  
+Harman Baweja                      : 0.000  
+Sharat Saxena                      : 0.000  
+Riya Sen                           : 0.000  
+Bikramjeet Kanwarpal               : 0.000  
+Jayne Houdyshell                   : 0.000  
+Kate Winslet                       : 0.000  
+Neha Sharma                        : 0.000  
+Farhan Akhtar                      : 0.000  
+Tracy Ifeachor                     : 0.000  
+Tána Fischerová                    : 0.000  
+Amber Skye Noyes                   : 0.000  
+Vivaan Shah                        : 0.000  
+Jacob Artist                       : 0.000  
+Mohan Joshi                        : 0.000  
+Daler Mehndi                       : 0.000  
+Julia Chan                         : 0.000  
+Stanley Tucci                      : 0.000  
+Sampled subgraph has 500 nodes and 141 edges.
+
+Degree Centrality on Sample:
+Lucian Iancu                        0
+Nick East                           2
+Holland Roden                       0
+Laara Ong                           0
+Benjamin Gur                        0
+Toni Mang                           0
+Darcy Ray Flavell-Hudson            0
+Ria Schindler                       0
+Hope Walter                         0
+Parham Potki                        0
+William Malone                      0
+M.C. Erny                           0
+Leila Otadi                         0
+Don Grady                           1
+Scott Mills                         0
+Vanessa Figueroa                    0
+Ghassen Mashini                     0
+Red Fox                             0
+Andrey Oliferenko                   1
+Tiffany Thornton                    0
+Kira Baskerville-Williams           0
+Hollis Morrison                     0
+Mandy Powers                        0
+Doreen Tracey                       0
+Skylar Porter                       0
+Naina Ganguly                       1
+Matthew Trett                       0
+John Krasinski                      1
+Dee Caffari                         0
+Susan Olsen                         0
+Moosie Drier                        1
+Darya Butkeeva                      0
+Shannon Hayward                     0
+Stephanee LaFleur                   0
+Christopher Cerf                    1
+Hanna Thiele                        0
+Jane Harnick                        0
+Tina Shek                           0
+Igor Bityutskiy                     0
+Valentinas Klimas                   0
+Molly Kieloch                       0
+Susan Jaffe                         0
+Shara Mai                           0
+Carolina Acevedo                    0
+Kristen Tusini                      0
+Kana Nanae                          0
+Paul Wall                           0
+Regina Bystryakova                  1
+Abubakr Ali                         1
+Dawid Pokusa                        0
+Samuel Muller                       0
+Seden Kiziltunç                     0
+Nicholas Hondrogen                  0
+Magda Kohut                         0
+Aydin Tezel                         1
+Ed Fleroff                          4
+Barry Levinson                      1
+Dick Ranger                         0
+Martin Pierlot                      0
+Dev Menaria                         0
+Yue-Ru Yu                           0
+Tongolele                           0
+Amy Gledhill                        1
+Tommy Truex                         0
+Jean Dautremay                      1
+Sergey Balashov                     0
+Nilgün Türksever                    0
+Winifred Freedman                   0
+Jean Leuvrais                       1
+Arseniy Robak                       1
+Jean Franko                         1
+Bodie Cruz                          0
+Andreas Jancke                      0
+Preshy Marker                       0
+Sonique                             0
+Daisuke Ban                         1
+Anders Thornberg                    0
+Satoshi Ishii                       0
+Tank Williams                       0
+René Sydow                          0
+Muriel Hopkins                      0
+Jessica Levesque                    0
+Bella Rios                          0
+Wanqiu Huang                        0
+Wally Uchida                        0
+Roberta Haynes                      0
+Vasiliy Stepanov                    0
+Samson Yi                           0
+Merve Hazer                         0
+Carmen Santa Maria                  0
+Christopher Briney                  0
+Nami Matsukawa                      0
+Dominic Gould                       1
+Jung Hyun-jun                       0
+Kevin Johansen                      0
+Matthew Rosenberg                   0
+Paola Rey                           1
+Denis Starkov                       0
+David McCullough                    0
+Matej Portes                        0
+Chasity Conner                      1
+Byron Robertson                     0
+Patricia Clarkson                   2
+Klaus Pohl                          0
+David Jessel                        0
+Niklaus Lange                       1
+Wladimir Tarasjanz                  0
+Nam Ji-hyun                         0
+William Hiney Jr.                   0
+Anna Chodakowska                    2
+Chuck Campbell                      1
+Jeff Fuller                         0
+Haley Clair                         1
+Cory Cassidy                        0
+Roberto Pedicini                    0
+Audrey Kitching                     0
+Audie Harrison                      1
+Dallas Campbell                     0
+Yoo Seong-ju                        1
+Jamie Bochert                       1
+Tiit Sukk                           1
+Olly Smith                          0
+Jean-Pierre Pincemin                0
+Jake Tobin                          0
+Stephen Condon                      0
+Simon Cadell                        2
+Amy Clover                          0
+Gene Lindsey                        0
+Matti Viironen                      1
+Brian J. Saville Allard             0
+Dieter Thomas                       0
+Mário C. Silva                      0
+Yolande Moreau                      1
+Richard Kreutz                      0
+Giacomo Rossi Stuart                1
+Vava                                0
+Inger Dietrichs                     0
+Naoko Kouda                         0
+Ana Otero                           0
+Myriam                              0
+Nick Stobbe                         0
+Delia Scala                         1
+Erika Oda                           0
+Wiktor Zborowski                    4
+Brendan George Ko                   0
+Tom Parker                          1
+Sarah Heinrich                      0
+Billy Redieck                       0
+Ayelet'                             0
+Londale Theus Jr.                   0
+Gustavo Gómez                       0
+Peter Andersson                     1
+A.J. Estrada                        0
+Farah Karimaee                      0
+Tatyana Bogdanova                   0
+Bogdan Uritescu                     0
+Rainer Winkelvoss                   1
+Olle Sarri                          2
+Kees Boot                           2
+István Mareczky                     0
+David Koepp                         0
+Jasmine Woods                       0
+Cy Chadwick                         0
+Mika Kubo                           0
+Jeremy Vine                         0
+MJ Dorning                          0
+Linda Larkin                        2
+Christopher Cullen                  0
+Johnny Lee Michaels                 1
+Michelle Gunn                       0
+Logan Douglas Smith                 0
+Freddy Sanchez                      1
+Nikolay Zaseev-Rudenko              0
+Birgit Waite                        1
+Flemming Jørgensen                  1
+Mário Redondo                       2
+Felix Magath                        0
+Marcin Wlodarski                    0
+Isa-Eerika Lehto                    0
+Selahattin Ozpalabiyiklar           0
+Lisa Lampanelli                     0
+Helder Afonso                       0
+Yvonne Bryceland                    1
+Mary Ann Schmidt                    0
+Brittany Murphy                     4
+Camila Bossa                        0
+Lim Ki-hong                         0
+Juan Verduzco                       1
+György Kálmán                       0
+Barbara Alton                       0
+Walter Bonatti                      0
+John McCririck                      0
+Maxim Busel                         0
+Stefano Di Battista                 0
+Patricia Walters                    0
+Costas Goldstone                    1
+Melissa Sandvig                     0
+Júpiter Maçã                        0
+Rob Goodman                         0
+Miklós Nagy                         0
+Xavier Saint-Macary                 0
+Martial Salomon                     0
+J. Todd Adams                       0
+Cristina Trevi                      0
+Bianca Dagger                       0
+Ambuj Baghel                        0
+Ülkü Özen                           1
+Kevin Dawson                        0
+Tushar Rastogi                      0
+Roman Sinitsyn                      1
+Jared Masters                       1
+China Chow                          3
+Christopher DesRoches               0
+Robson Caetano                      0
+Anna Ovsyannikova                   0
+Mickey Breitenstein                 0
+Michael Mellinger                   1
+Wanda Worch                         0
+Monika Qoshja                       0
+Cameron Young                       0
+Sotiris Kalivatsis                  1
+Jerry Harte                         0
+April Cantelo                       0
+Luke Cresswell                      0
+Anna Lutoslawska                    0
+Dmitriy Buteyev                     0
+Michael Wai-Man Chan                1
+Ruobing Zhao                        0
+Jerusha Kloke                       0
+Raisa Struchkova                    0
+David Gould                         0
+Wirt Cain                           0
+Nan Zhang                           0
+Garett Grow                         0
+Alex Westaway                       0
+Gordon Waller                       0
+Neal Piron                          0
+Leo Marian Vodicka                  0
+Guo'er Yu                           0
+Tommy Walsh                         0
+Chunrong Dai                        2
+Sul Jung-hwan                       0
+Talisia Misiedjan                   1
+Joleigh Fioreavanti                 0
+Marc Arnason                        0
+Robert Goulet                       1
+Silvia Jato                         0
+Julius Carry                        5
+Holger Czukay                       1
+Yuriy Utkin                         1
+Susanne Holst                       0
+Susie Essman                        2
+Ceylan Ertem                        0
+Taiko Shinbashi                     0
+Mark Rabiner                        0
+Gia Derza                           1
+Donovan Leitch Jr.                  2
+Lana Ettinger                       0
+Aurel Mertz                         0
+Fredy Polania                       0
+Maggie Smith                        2
+Andrés Velencoso                    0
+Carol Canhisares                    0
+André Cellier                       0
+Zahra Swetz                         0
+Carmen Electra                      4
+Qitian Yang                         0
+Irina Egorova                       1
+Lisa Daniels                        0
+Damion Hall                         0
+Jacqueline Néro                     0
+Kamber Dalçik                       0
+Jackson Odell                       0
+Hugh Dickson                        2
+Mario d'Anna                        0
+Per Grevér                          1
+Jonathan Kinsler                    1
+Abella Wyss                         0
+Branislav Trifunovic                0
+Louis Walsh                         1
+Adi Loehe                           0
+Miodrag Bogic                       0
+Emilia Attías                       1
+Giorgio Capitani                    0
+Xu Chen                             1
+Melvin Jackson                      0
+Sean Andrew Bradley                 0
+Kandyland                           0
+Patricia Ferrier                    0
+Heiko Schaffartzik                  0
+Biggy van Blond                     0
+Jeremy Wallace                      0
+Kinuo Yamada                        0
+Ben Sidran                          1
+Mikk Mägi                           1
+Abidin Yerebakan                    0
+György Hunyadkürthy                 0
+Liz Lochhead                        0
+Amy Price-Francis                   1
+Anne Tismer                         1
+Manu Arrarás                        0
+Nadja Witzansky                     0
+Chet Curtis                         0
+BlaaZe                              0
+Donna Sue Jahier                    1
+Pradip Raut                         0
+Marius Donnelly                     0
+Ed O'Brien                          0
+Joko Anwar                          0
+Barun Sobti                         0
+Craig Lamar Traylor                 0
+Ulas Kilic                          1
+Larry David                         2
+Paul Mitton                         0
+Richard Arlen Jr.                   0
+Günter Pichler                      0
+Joseph Pozo                         0
+Francesco Barilli                   0
+Jan Gajdos                          1
+Rachel Morris                       0
+Bjørn Næss                          0
+Tiia Louhevaara                     0
+Speedy Deftereos                    0
+Martina Melani                      0
+Shin'ichi Chiba                     2
+John Ortiz                          2
+Mark Louie                          0
+Mowett                              0
+Kenyon Harris                       0
+Matthew Smalley                     0
+Farhan Khan                         0
+Brad Jones                          1
+Pedro Galiza                        0
+Wieslaw Slawik                      1
+Red Bone                            1
+Sarah Pesto                         0
+Teal Wicks                          0
+Christie Miró                       0
+Gayathrie                           0
+Jan Jaap Janssen                    1
+Ron Ackerman                        0
+Lisa                                0
+Józef Lotysz                        0
+Joe Trotter                         0
+Nike Martens                        0
+Gianni Ippoliti                     1
+Billy Drago                         2
+Kola Bokinni                        0
+Neal E. Fischer                     0
+James Maslow                        1
+Victoria Teijeiro                   0
+Christian Asse                      1
+Jean Doyon                          0
+Ben Kenney                          0
+Lotte Tarp                          0
+Ricardo Simões                      0
+Tiffani Faison                      0
+Theo Stockman                       0
+Nidia de Paula                      1
+Cilla Thorell                       2
+Kevin Teller                        0
+Shane Helms                         1
+Avril Leslie                        0
+Morten Hauch-Fausbøll               1
+Arnaud Valois                       0
+Kenny Wallace                       0
+Sophie Postma                       0
+Richard Sherman                     0
+Madeline Fabian                     0
+Andrea Rosenberg                    0
+Tess Broussard                      0
+Nazli Senem Ünal                    0
+Aurora de Alba                      0
+Kacper Olszewski                    1
+Norma Mora                          0
+Clémence Poésy                      1
+Carlo Scheldwacht                   0
+Alfonso Freeman                     1
+Marguerite Campbell                 0
+Paddy Glynn                         1
+Sarah Tkotsch                       1
+Lesley Joseph                       2
+Dennis Bendersky                    0
+Alyssa Christensen                  0
+Bill Viola                          1
+Karl-Dieter Möller                  0
+Israel Luna                         0
+Fahad Salman                        0
+Jorge Eduardo García                1
+Piotr Chys                          1
+Anne Mona Hansen                    0
+Ivan Taylor                         0
+Nai Bonet                           0
+Bartho Braat                        2
+Shay Fox                            0
+Dulce Anaya                         0
+Jerry Tracy                         0
+Dolores Faith                       0
+Joe Swift                           0
+Wojciech Mann                       1
+Madeline Smith                      2
+Reina Ueda                          2
+Im Kang-sung                        1
+Vitorino                            0
+Isha Keskar                         0
+Justin Malachi                      0
+David E. Boston                     0
+Martin Rapold                       1
+Dudley Moore                        1
+Lucille Vines                       0
+Tory Green                          0
+Erika Ender                         0
+Amarasiri Kalansooriya              0
+Edgar Winter                        0
+Chia-Hung Tsai                      0
+Dimebag Darrell                     0
+Cüneyt Kaya                         0
+Ahmad Zarabi                        0
+Leonardo Brício                     0
+Ensar Kiliç                         0
+Lee Spencer                         0
+Bob Greenberg                       0
+John Ford Noonan                    0
+Lounis Tiar                         0
+Vincent Ricciardi                   0
+Ursula Mohan                        1
+Ngoc Tú Nguyen                      0
+Jordan A. Smith                     0
+Camilla Ken                         0
+Herwig Ilegems                      0
+Kasper Janus Rasmussen              0
+Jason Wishnov                       1
+Elastinen                           0
+Ankur Nayyar                        1
+Joyce Kozloff                       0
+Korkmaz Aslan                       0
+Aleksandr Tyutryumov                0
+Sanja Mikitisin                     0
+Hilary Timmins                      0
+David Daniels                       0
+J. Paul Slavens                     1
+Ai Iwamura                          0
+Maria Hofstätter                    1
+Martin Zauner                       0
+Daisy Layne                         0
+Scott Burkholder                    0
+Mikako Komatsu                      2
+Jan Szczepanski                     0
+Ann Saker                           0
+Carlos Cuevas                       1
+Bianca Berini                       0
+Viktoriya Belyakova                 0
+Justine Sade                        0
+Brett Anderson                      0
+Lisset                              1
+Milos Bílek                         0
+Yuriy Potapenko                     0
+Ignasi P. Ferré                     0
+Jan de Hoop                         0
+Snezana Lukic                       0
+Philippe Wee                        0
+Will Clark                          0
+Peter Kent                          0
+Peter Sanders                       0
+Roberta Hilarius Reichhardt         1
+Layna Landry                        0
+Jonathan Michael Green              0
+Jeff Bryan Davis                    1
+Iva Radivojevic                     0
+Adnan Siddiqui                      0
+Kate Williams                       4
+Anderz Eide                         1
+Winslow Bright                      0
+Lucy Gaskell                        0
+Lilly                               0
+Kalle Gaffkus                       0
+Laura Regan                         1
+Sonya Kerr                          0
+Sean Harrison Jones                 0
+Pedro Miguel Arce                   0
+Dionna Williams                     0
+Kyoko Tsuruno                       1
+Libusa Trutzová                     0
+Peter Webb                          0
+Aaron Charlton Smith                0
+Shigeyuki Totsugi                   2
+James Widdoes                       0
+Martin Dingle Wall                  0
+Kristina Kazinskaya                 0
+Ece Hakim                           0
+Guerin Barry                        1
+Chi-jan Hou                         0
+Magic Malik                         0
+David Byrne                         1
+Mengjie Jiang                       0
+Wenguang Wu                         0
+Jessica Reynolds                    0
+Peter Cerovsek                      0
+Okan Tangücü                        0
+Alexandre Ferreira                  1
+
+Closeness Centrality on Sample:
+Jackson Odell                       0.000
+Leo Marian Vodicka                  0.000
+Biggy van Blond                     0.000
+Chia-Hung Tsai                      0.000
+Arnaud Valois                       0.000
+Theo Stockman                       0.000
+Ron Ackerman                        0.000
+Nai Bonet                           0.000
+Naina Ganguly                       0.000
+Tiia Louhevaara                     0.000
+Michael Mellinger                   0.000
+Abidin Yerebakan                    0.000
+Michael Wai-Man Chan                0.000
+Jerry Harte                         0.000
+Matthew Trett                       0.000
+John Krasinski                      0.000
+Martin Pierlot                      0.000
+David Koepp                         0.000
+Shay Fox                            0.000
+Christie Miró                       0.000
+Jan Jaap Janssen                    1.000
+Lisset                              1.000
+Jean-Pierre Pincemin                0.000
+Gayathrie                           0.000
+Kacper Olszewski                    0.600
+Jasmine Woods                       0.000
+Pedro Miguel Arce                   0.000
+Logan Douglas Smith                 0.000
+Jerusha Kloke                       0.000
+Júpiter Maçã                        0.000
+Roberta Haynes                      0.000
+Anna Lutoslawska                    0.000
+Lisa                                0.000
+Winslow Bright                      0.000
+James Maslow                        0.000
+Stephanee LaFleur                   0.000
+Günter Pichler                      0.000
+Dennis Bendersky                    0.000
+Kees Boot                           1.000
+Tom Parker                          0.000
+Moosie Drier                        0.000
+Zahra Swetz                         0.000
+A.J. Estrada                        0.000
+Sotiris Kalivatsis                  0.000
+Sarah Heinrich                      0.000
+Sanja Mikitisin                     0.000
+Red Fox                             0.000
+Magda Kohut                         0.000
+Jeremy Vine                         0.000
+Abella Wyss                         0.000
+Ed O'Brien                          0.000
+Jessica Levesque                    0.000
+Michelle Gunn                       0.000
+Don Grady                           0.000
+Juan Verduzco                       1.000
+James Widdoes                       0.000
+Paddy Glynn                         0.000
+Matthew Rosenberg                   0.000
+Jared Masters                       0.000
+Bodie Cruz                          0.000
+Adi Loehe                           0.000
+Qitian Yang                         0.000
+Martin Rapold                       1.000
+Ai Iwamura                          0.000
+Monika Qoshja                       0.000
+Irina Egorova                       0.571
+Linda Larkin                        0.321
+Denis Starkov                       0.000
+Alyssa Christensen                  0.000
+Mandy Powers                        0.000
+Scott Burkholder                    0.000
+Preshy Marker                       0.000
+Jane Harnick                        0.000
+Lucy Gaskell                        0.000
+Walter Bonatti                      0.000
+Chasity Conner                      0.000
+Iva Radivojevic                     0.000
+Brittany Murphy                     0.450
+Lesley Joseph                       0.600
+Dolores Faith                       0.000
+Victoria Teijeiro                   0.000
+Chet Curtis                         0.000
+Jeff Bryan Davis                    0.000
+Yolande Moreau                      0.000
+Stephen Condon                      0.000
+Garett Grow                         0.000
+M.C. Erny                           0.000
+Kristen Tusini                      0.000
+Toni Mang                           0.000
+Ann Saker                           0.000
+BlaaZe                              0.000
+Jeff Fuller                         0.000
+Fahad Salman                        0.000
+Barry Levinson                      0.000
+Christopher Cullen                  0.000
+Lotte Tarp                          0.000
+Robert Goulet                       0.000
+Parham Potki                        0.000
+Elastinen                           0.000
+Farhan Khan                         0.000
+Benjamin Gur                        0.000
+Roberta Hilarius Reichhardt         0.000
+Silvia Jato                         0.000
+Miodrag Bogic                       0.000
+Flemming Jørgensen                  0.000
+Ben Sidran                          0.000
+Selahattin Ozpalabiyiklar           0.000
+Ahmad Zarabi                        0.000
+Jeremy Wallace                      0.000
+Madeline Smith                      0.600
+Abubakr Ali                         0.000
+Hugh Dickson                        1.000
+Rachel Morris                       0.000
+John McCririck                      0.000
+Mika Kubo                           0.000
+Kasper Janus Rasmussen              0.000
+Regina Bystryakova                  0.000
+Mark Louie                          0.000
+Carolina Acevedo                    0.000
+Reina Ueda                          1.000
+Jerry Tracy                         0.000
+Jordan A. Smith                     0.000
+Okan Tangücü                        0.000
+Justin Malachi                      0.000
+Cameron Young                       0.000
+Klaus Pohl                          0.000
+István Mareczky                     0.000
+Sean Andrew Bradley                 0.000
+Stefano Di Battista                 0.000
+Nadja Witzansky                     0.000
+Justine Sade                        0.000
+Kola Bokinni                        0.000
+Cory Cassidy                        0.000
+Shannon Hayward                     0.000
+Peter Webb                          0.000
+Carlos Cuevas                       0.000
+Arseniy Robak                       0.571
+Herwig Ilegems                      0.000
+Amarasiri Kalansooriya              0.000
+Tess Broussard                      0.000
+Pradip Raut                         0.000
+Leonardo Brício                     0.000
+Karl-Dieter Möller                  0.000
+Susie Essman                        1.000
+Mickey Breitenstein                 0.000
+Dieter Thomas                       0.000
+Anna Chodakowska                    0.600
+Marius Donnelly                     0.000
+Anne Tismer                         0.000
+Nike Martens                        0.000
+Damion Hall                         0.000
+Ceylan Ertem                        0.000
+Barun Sobti                         0.000
+Costas Goldstone                    0.000
+Susanne Holst                       0.000
+Giacomo Rossi Stuart                0.000
+Maggie Smith                        1.000
+Jan Gajdos                          0.000
+Martina Melani                      0.000
+David Jessel                        0.000
+Yoo Seong-ju                        1.000
+Kristina Kazinskaya                 0.000
+Gustavo Gómez                       0.000
+Maria Hofstätter                    1.000
+Wenguang Wu                         0.000
+Edgar Winter                        0.000
+Adnan Siddiqui                      0.000
+Olle Sarri                          1.000
+Marguerite Campbell                 0.000
+Raisa Struchkova                    0.000
+Guo'er Yu                           0.000
+Wanda Worch                         0.000
+Jessica Reynolds                    0.000
+Seden Kiziltunç                     0.000
+Christopher Briney                  0.000
+Kandyland                           0.000
+Israel Luna                         0.000
+Laura Regan                         0.321
+Byron Robertson                     0.000
+Molly Kieloch                       0.000
+Chi-jan Hou                         0.000
+Farah Karimaee                      0.000
+Amy Gledhill                        0.000
+China Chow                          0.450
+Hollis Morrison                     0.000
+Tank Williams                       0.000
+Naoko Kouda                         0.000
+Speedy Deftereos                    0.000
+Neal E. Fischer                     0.000
+Martial Salomon                     0.000
+Kevin Johansen                      0.000
+Ana Otero                           0.000
+Richard Kreutz                      0.000
+Dionna Williams                     0.000
+Manu Arrarás                        0.000
+Nam Ji-hyun                         0.000
+Xavier Saint-Macary                 0.000
+Delia Scala                         0.000
+Susan Olsen                         0.000
+Haley Clair                         0.000
+Mark Rabiner                        0.000
+Melissa Sandvig                     0.000
+Samuel Muller                       0.000
+Yue-Ru Yu                           0.000
+György Kálmán                       0.000
+Cy Chadwick                         0.000
+Tory Green                          0.000
+Jean Franko                         0.000
+Sean Harrison Jones                 0.000
+Jonathan Michael Green              0.000
+Martin Zauner                       0.000
+Helder Afonso                       0.000
+Ignasi P. Ferré                     0.000
+Amy Price-Francis                   0.000
+Nami Matsukawa                      0.000
+Camila Bossa                        0.000
+John Ortiz                          1.000
+Alex Westaway                       0.000
+Bartho Braat                        1.000
+Holger Czukay                       0.000
+Ensar Kiliç                         0.000
+Guerin Barry                        0.000
+Bill Viola                          0.000
+Daisuke Ban                         0.000
+Merve Hazer                         0.000
+Wiktor Zborowski                    1.000
+Teal Wicks                          0.000
+William Hiney Jr.                   0.000
+Craig Lamar Traylor                 0.000
+Aydin Tezel                         1.000
+Wirt Cain                           0.000
+Aurora de Alba                      0.000
+Im Kang-sung                        1.000
+Jean Leuvrais                       0.000
+Gia Derza                           0.000
+Paola Rey                           0.000
+Anna Ovsyannikova                   0.000
+Red Bone                            1.000
+Nazli Senem Ünal                    0.000
+Jung Hyun-jun                       0.000
+Anderz Eide                         0.000
+Alfonso Freeman                     0.000
+Brian J. Saville Allard             0.000
+Tiit Sukk                           0.000
+MJ Dorning                          0.000
+Laara Ong                           0.000
+Kevin Dawson                        0.000
+Xu Chen                             1.000
+Shigeyuki Totsugi                   1.000
+Patricia Walters                    0.000
+Bob Greenberg                       0.000
+Matej Portes                        0.000
+Mowett                              0.000
+Wladimir Tarasjanz                  0.000
+David Daniels                       0.000
+Peter Kent                          0.000
+Liz Lochhead                        0.000
+Inger Dietrichs                     0.000
+Kinuo Yamada                        0.000
+Maxim Busel                         0.000
+Magic Malik                         0.000
+Camilla Ken                         0.000
+Luke Cresswell                      0.000
+Neal Piron                          0.000
+Bella Rios                          0.000
+Kana Nanae                          0.000
+Rob Goodman                         0.000
+Roman Sinitsyn                      0.571
+Kevin Teller                        0.000
+Joe Swift                           0.000
+Peter Sanders                       0.000
+György Hunyadkürthy                 0.000
+Holland Roden                       0.000
+Winifred Freedman                   0.000
+Tongolele                           0.000
+Tatyana Bogdanova                   0.000
+Joko Anwar                          0.000
+Yvonne Bryceland                    0.000
+Will Clark                          0.000
+Per Grevér                          0.000
+Tina Shek                           0.000
+Scott Mills                         0.000
+Mikako Komatsu                      1.000
+Paul Wall                           0.000
+Cilla Thorell                       1.000
+Leila Otadi                         0.000
+Hope Walter                         0.000
+Peter Cerovsek                      0.000
+Sonya Kerr                          0.000
+Matti Viironen                      0.000
+Joyce Kozloff                       0.000
+Taiko Shinbashi                     0.000
+Ursula Mohan                        0.000
+Wally Uchida                        0.000
+Christopher Cerf                    0.000
+Christopher DesRoches               0.000
+Shin'ichi Chiba                     1.000
+Billy Redieck                       0.000
+Olly Smith                          0.000
+Miklós Nagy                         0.000
+Marcin Wlodarski                    0.000
+Korkmaz Aslan                       0.000
+Józef Lotysz                        0.000
+Ria Schindler                       0.000
+Mário Redondo                       1.000
+Aleksandr Tyutryumov                0.000
+Layna Landry                        0.000
+Brad Jones                          0.000
+Wanqiu Huang                        0.000
+David McCullough                    0.000
+Kamber Dalçik                       0.000
+Ruobing Zhao                        0.000
+Nidia de Paula                      0.000
+Mengjie Jiang                       0.000
+Heiko Schaffartzik                  0.000
+Bianca Berini                       0.000
+Ben Kenney                          0.000
+Jean Dautremay                      0.000
+Jacqueline Néro                     0.000
+Darya Butkeeva                      0.000
+Lana Ettinger                       0.000
+Piotr Chys                          0.000
+Felix Magath                        0.000
+Alexandre Ferreira                  1.000
+Darcy Ray Flavell-Hudson            0.000
+Brendan George Ko                   0.000
+Vanessa Figueroa                    0.000
+Skylar Porter                       0.000
+Ayelet'                             0.000
+Simon Cadell                        0.600
+Jan de Hoop                         0.000
+Tushar Rastogi                      0.000
+April Cantelo                       0.000
+Dawid Pokusa                        0.000
+Fredy Polania                       0.000
+Jean Doyon                          0.000
+Patricia Ferrier                    0.000
+Dee Caffari                         0.000
+Vasiliy Stepanov                    0.000
+Talisia Misiedjan                   1.000
+Erika Ender                         0.000
+Lounis Tiar                         0.000
+Hanna Thiele                        0.000
+Yuriy Utkin                         0.571
+Donovan Leitch Jr.                  1.000
+Doreen Tracey                       0.000
+Madeline Fabian                     0.000
+Gene Lindsey                        0.000
+Pedro Galiza                        0.000
+Londale Theus Jr.                   0.000
+Giorgio Capitani                    0.000
+Dulce Anaya                         0.000
+Roberto Pedicini                    0.000
+Viktoriya Belyakova                 0.000
+Vincent Ricciardi                   0.000
+Francesco Barilli                   0.000
+Andrés Velencoso                    0.000
+Satoshi Ishii                       0.000
+Gordon Waller                       0.000
+Kyoko Tsuruno                       0.000
+Anne Mona Hansen                    0.000
+Kenny Wallace                       0.000
+Joseph Pozo                         0.000
+Mikk Mägi                           0.000
+Sul Jung-hwan                       0.000
+Dimebag Darrell                     0.000
+Aaron Charlton Smith                0.000
+Sonique                             0.000
+Aurel Mertz                         0.000
+Anders Thornberg                    0.000
+Louis Walsh                         0.000
+Ülkü Özen                           1.000
+Richard Arlen Jr.                   0.000
+Myriam                              0.000
+Morten Hauch-Fausbøll               0.000
+Marc Arnason                        0.000
+Robson Caetano                      0.000
+Melvin Jackson                      0.000
+Mário C. Silva                      0.000
+J. Todd Adams                       0.000
+Hilary Timmins                      0.000
+Chuck Campbell                      0.000
+Sophie Postma                       0.000
+Nick East                           1.000
+Paul Mitton                         0.000
+René Sydow                          0.000
+Dominic Gould                       0.000
+Larry David                         1.000
+Avril Leslie                        0.000
+Lim Ki-hong                         0.000
+Tommy Walsh                         0.000
+Jason Wishnov                       0.000
+André Cellier                       0.000
+Johnny Lee Michaels                 0.000
+Nilgün Türksever                    0.000
+Andreas Jancke                      0.000
+Libusa Trutzová                     0.000
+Jonathan Kinsler                    1.000
+Sergey Balashov                     0.000
+Igor Bityutskiy                     0.000
+Ece Hakim                           0.000
+Vava                                0.000
+Billy Drago                         0.409
+Ricardo Simões                      0.000
+Cristina Trevi                      0.000
+Lisa Lampanelli                     0.000
+Dmitriy Buteyev                     0.000
+Freddy Sanchez                      0.000
+Kate Williams                       1.000
+Ankur Nayyar                        0.000
+Bjørn Næss                          0.000
+Carol Canhisares                    0.000
+David Gould                         0.000
+Mary Ann Schmidt                    0.000
+Tiffani Faison                      0.000
+David E. Boston                     0.000
+Wojciech Mann                       0.600
+Joleigh Fioreavanti                 0.000
+Valentinas Klimas                   0.000
+Daisy Layne                         0.000
+William Malone                      0.000
+Susan Jaffe                         0.000
+Tiffany Thornton                    0.000
+Philippe Wee                        0.000
+Richard Sherman                     0.000
+Matthew Smalley                     0.000
+Mario d'Anna                        0.000
+Shara Mai                           0.000
+Bogdan Uritescu                     0.000
+Clémence Poésy                      0.000
+Ambuj Baghel                        0.000
+Audrey Kitching                     0.000
+Ivan Taylor                         0.000
+Nicholas Hondrogen                  0.000
+Carlo Scheldwacht                   0.000
+Lisa Daniels                        0.000
+Isha Keskar                         0.000
+Erika Oda                           0.000
+Gianni Ippoliti                     0.000
+Lucian Iancu                        0.000
+Ed Fleroff                          1.000
+Snezana Lukic                       0.000
+Donna Sue Jahier                    0.375
+Dudley Moore                        0.000
+John Ford Noonan                    0.000
+Wieslaw Slawik                      0.000
+Martin Dingle Wall                  0.000
+Carmen Santa Maria                  0.000
+Tommy Truex                         0.000
+Christian Asse                      0.000
+Muriel Hopkins                      0.000
+Dev Menaria                         0.000
+Lilly                               0.000
+Audie Harrison                      0.000
+Jamie Bochert                       0.000
+Rainer Winkelvoss                   0.000
+Joe Trotter                         0.000
+Sarah Pesto                         0.000
+Brett Anderson                      0.000
+Kenyon Harris                       0.000
+Amy Clover                          0.000
+Julius Carry                        0.562
+David Byrne                         0.000
+Norma Mora                          0.000
+Shane Helms                         0.000
+Dick Ranger                         0.000
+Andrey Oliferenko                   0.000
+Jan Szczepanski                     0.000
+Isa-Eerika Lehto                    0.000
+Niklaus Lange                       0.375
+Bianca Dagger                       0.000
+Patricia Clarkson                   0.300
+Birgit Waite                        0.000
+Ngoc Tú Nguyen                      0.000
+Kira Baskerville-Williams           0.000
+Carmen Electra                      0.562
+J. Paul Slavens                     0.000
+Milos Bílek                         0.000
+Ulas Kilic                          0.000
+Samson Yi                           0.000
+Emilia Attías                       0.000
+Nikolay Zaseev-Rudenko              0.000
+Nick Stobbe                         0.000
+Nan Zhang                           0.000
+Dallas Campbell                     0.000
+Peter Andersson                     0.000
+Kalle Gaffkus                       0.000
+Cüneyt Kaya                         0.000
+Ghassen Mashini                     0.000
+Sarah Tkotsch                       1.000
+Branislav Trifunovic                0.000
+Barbara Alton                       0.000
+Yuriy Potapenko                     0.000
+Jake Tobin                          0.000
+Vitorino                            0.000
+Andrea Rosenberg                    0.000
+Lucille Vines                       0.000
+Jorge Eduardo García                0.000
+Chunrong Dai                        1.000
+Lee Spencer                         0.000
+
+Betweenness Centrality on Sample:
+David McCullough                    0.000
+Tiit Sukk                           0.000
+Joseph Pozo                         0.000
+Jean Franko                         0.000
+Ülkü Özen                           0.000
+Anderz Eide                         0.000
+Julius Carry                        0.000
+Vava                                0.000
+Guo'er Yu                           0.000
+Reina Ueda                          0.000
+Pedro Galiza                        0.000
+Guerin Barry                        0.000
+Arseniy Robak                       0.000
+Johnny Lee Michaels                 0.000
+Irina Egorova                       0.000
+Gustavo Gómez                       0.000
+John Ortiz                          0.000
+Moosie Drier                        0.000
+Don Grady                           0.000
+Herwig Ilegems                      0.000
+Matti Viironen                      0.000
+Mickey Breitenstein                 0.000
+Jacqueline Néro                     0.000
+Peter Sanders                       0.000
+Dev Menaria                         0.000
+Donna Sue Jahier                    0.000
+Nike Martens                        0.000
+Kevin Dawson                        0.000
+Wenguang Wu                         0.000
+Xu Chen                             0.000
+Peter Webb                          0.000
+Cory Cassidy                        0.000
+Günter Pichler                      0.000
+Aurora de Alba                      0.000
+Yvonne Bryceland                    0.000
+Nadja Witzansky                     0.000
+Daisy Layne                         0.000
+Nikolay Zaseev-Rudenko              0.000
+Miodrag Bogic                       0.000
+Wanqiu Huang                        0.000
+Cüneyt Kaya                         0.000
+Speedy Deftereos                    0.000
+Mikako Komatsu                      0.000
+Morten Hauch-Fausbøll               0.000
+Gianni Ippoliti                     0.000
+Louis Walsh                         0.000
+Paddy Glynn                         0.000
+Myriam                              0.000
+Anne Tismer                         0.000
+Joleigh Fioreavanti                 0.000
+Piotr Chys                          0.000
+Sophie Postma                       0.000
+Kalle Gaffkus                       0.000
+Anders Thornberg                    0.000
+Sean Andrew Bradley                 0.000
+Alyssa Christensen                  0.000
+Red Fox                             0.000
+Maria Hofstätter                    0.000
+Gordon Waller                       0.000
+Mário Redondo                       0.000
+Leonardo Brício                     0.000
+Shin'ichi Chiba                     0.000
+Brittany Murphy                     0.000
+Gayathrie                           0.000
+Hope Walter                         0.000
+Lilly                               0.000
+Kana Nanae                          0.000
+Anna Ovsyannikova                   0.000
+Nilgün Türksever                    0.000
+Winslow Bright                      0.000
+Magic Malik                         0.000
+Sotiris Kalivatsis                  0.000
+Christopher Cerf                    0.000
+Martina Melani                      0.000
+Roberto Pedicini                    0.000
+Carolina Acevedo                    0.000
+Lounis Tiar                         0.000
+Raisa Struchkova                    0.000
+Michael Wai-Man Chan                0.000
+Bianca Dagger                       0.000
+Billy Redieck                       0.000
+Shara Mai                           0.000
+Brett Anderson                      0.000
+Ricardo Simões                      0.000
+Madeline Smith                      0.000
+Susie Essman                        0.000
+Regina Bystryakova                  0.000
+Manu Arrarás                        0.000
+Logan Douglas Smith                 0.000
+Walter Bonatti                      0.000
+Doreen Tracey                       0.000
+Lim Ki-hong                         0.000
+Tommy Truex                         0.000
+Sonique                             0.000
+Fredy Polania                       0.000
+Martial Salomon                     0.000
+Londale Theus Jr.                   0.000
+Laara Ong                           0.000
+Stefano Di Battista                 0.000
+Martin Pierlot                      0.000
+Joe Swift                           0.000
+Jerusha Kloke                       0.000
+Dieter Thomas                       0.000
+Isa-Eerika Lehto                    0.000
+Patricia Walters                    0.000
+Susan Jaffe                         0.000
+William Hiney Jr.                   0.000
+Ambuj Baghel                        0.000
+Zahra Swetz                         0.000
+Jake Tobin                          0.000
+Sergey Balashov                     0.000
+Elastinen                           0.000
+Arnaud Valois                       0.000
+Igor Bityutskiy                     0.000
+David Koepp                         0.000
+April Cantelo                       0.000
+Sarah Pesto                         0.000
+Camilla Ken                         0.000
+Wojciech Mann                       0.000
+Martin Rapold                       0.000
+Francesco Barilli                   0.000
+Amarasiri Kalansooriya              0.000
+BlaaZe                              0.000
+Gene Lindsey                        0.000
+Roberta Hilarius Reichhardt         0.000
+Cy Chadwick                         0.000
+Niklaus Lange                       0.000
+Melvin Jackson                      0.000
+Hilary Timmins                      0.000
+Birgit Waite                        0.000
+Dulce Anaya                         0.000
+Bella Rios                          0.000
+Kola Bokinni                        0.000
+MJ Dorning                          0.000
+Ghassen Mashini                     0.000
+Talisia Misiedjan                   0.000
+Edgar Winter                        0.000
+Jung Hyun-jun                       0.000
+Mowett                              0.000
+Marguerite Campbell                 0.000
+Joyce Kozloff                       0.000
+David E. Boston                     0.000
+Ann Saker                           0.000
+Neal E. Fischer                     0.000
+Carlo Scheldwacht                   0.000
+Patricia Ferrier                    0.000
+Flemming Jørgensen                  0.000
+Holland Roden                       0.000
+Richard Sherman                     0.000
+Ivan Taylor                         0.000
+Wiktor Zborowski                    0.000
+Joko Anwar                          0.000
+Amy Price-Francis                   0.000
+Silvia Jato                         0.000
+Chet Curtis                         0.000
+Sean Harrison Jones                 0.000
+André Cellier                       0.000
+Richard Arlen Jr.                   0.000
+Jan de Hoop                         0.000
+Tess Broussard                      0.000
+Brendan George Ko                   0.000
+Martin Dingle Wall                  0.000
+Muriel Hopkins                      0.000
+Aydin Tezel                         0.000
+Valentinas Klimas                   0.000
+Daisuke Ban                         0.000
+Carol Canhisares                    0.000
+Juan Verduzco                       0.000
+Christian Asse                      0.000
+Jonathan Michael Green              0.000
+Ensar Kiliç                         0.000
+Tushar Rastogi                      0.000
+Anna Lutoslawska                    0.000
+Christopher DesRoches               0.000
+Wanda Worch                         0.000
+Luke Cresswell                      0.000
+Chunrong Dai                        0.000
+Pradip Raut                         0.000
+Ben Kenney                          0.000
+Paul Mitton                         0.000
+Monika Qoshja                       0.000
+Lotte Tarp                          0.000
+Wirt Cain                           0.000
+Dolores Faith                       0.000
+Sarah Heinrich                      0.000
+Samson Yi                           0.000
+Shay Fox                            0.000
+Mário C. Silva                      0.000
+Branislav Trifunovic                0.000
+Marc Arnason                        0.000
+Yuriy Utkin                         0.000
+Tongolele                           0.000
+Philippe Wee                        0.000
+Sarah Tkotsch                       0.000
+Per Grevér                          0.000
+Peter Andersson                     0.000
+Jonathan Kinsler                    0.000
+Parham Potki                        0.000
+Amy Gledhill                        0.000
+Ceylan Ertem                        0.000
+Viktoriya Belyakova                 0.000
+Winifred Freedman                   0.000
+Ai Iwamura                          0.000
+Red Bone                            0.000
+Alex Westaway                       0.000
+Barry Levinson                      0.000
+Kandyland                           0.000
+Kristen Tusini                      0.000
+Chuck Campbell                      0.000
+Richard Kreutz                      0.000
+Lisset                              0.000
+Hugh Dickson                        0.000
+Shannon Hayward                     0.000
+Qitian Yang                         0.000
+William Malone                      0.000
+Matthew Trett                       0.000
+Andrea Rosenberg                    0.000
+Yolande Moreau                      0.000
+Nick Stobbe                         0.000
+Dimebag Darrell                     0.000
+Snezana Lukic                       0.000
+Mario d'Anna                        0.000
+Sul Jung-hwan                       0.000
+Roberta Haynes                      0.000
+M.C. Erny                           0.000
+Ed Fleroff                          0.000
+Jessica Levesque                    0.000
+Madeline Fabian                     0.000
+Jamie Bochert                       0.000
+Júpiter Maçã                        0.000
+Molly Kieloch                       0.000
+Cameron Young                       0.000
+Erika Oda                           0.000
+Rob Goodman                         0.000
+Kees Boot                           0.000
+Farhan Khan                         0.000
+Libusa Trutzová                     0.000
+Adnan Siddiqui                      0.000
+Magda Kohut                         0.000
+David Byrne                         0.000
+Linda Larkin                        0.000
+Preshy Marker                       0.000
+Kasper Janus Rasmussen              0.000
+Kira Baskerville-Williams           0.000
+Clémence Poésy                      0.000
+Im Kang-sung                        0.000
+Brad Jones                          0.000
+Damion Hall                         0.000
+Tory Green                          0.000
+Nai Bonet                           0.000
+Cristina Trevi                      0.000
+Helder Afonso                       0.000
+Craig Lamar Traylor                 0.000
+Dee Caffari                         0.000
+James Maslow                        0.000
+Naoko Kouda                         0.000
+Marius Donnelly                     0.000
+Robson Caetano                      0.000
+Giorgio Capitani                    0.000
+Jean-Pierre Pincemin                0.000
+Liz Lochhead                        0.000
+Ruobing Zhao                        0.000
+Tommy Walsh                         0.000
+Toni Mang                           0.000
+Jessica Reynolds                    0.000
+Bogdan Uritescu                     0.000
+David Gould                         0.000
+Leila Otadi                         0.000
+Jane Harnick                        0.000
+Benjamin Gur                        0.000
+Farah Karimaee                      0.000
+James Widdoes                       0.000
+Chasity Conner                      0.000
+Selahattin Ozpalabiyiklar           0.000
+Nan Zhang                           0.000
+Laura Regan                         0.000
+Jorge Eduardo García                0.000
+Kevin Teller                        0.000
+Kevin Johansen                      0.000
+Nicholas Hondrogen                  0.000
+Ria Schindler                       0.000
+István Mareczky                     0.000
+Jean Dautremay                      0.000
+Joe Trotter                         0.000
+Shigeyuki Totsugi                   0.000
+Bob Greenberg                       0.000
+Carmen Santa Maria                  0.000
+Pedro Miguel Arce                   0.000
+Maggie Smith                        0.000
+Vincent Ricciardi                   0.000
+J. Paul Slavens                     0.000
+Jerry Tracy                         0.000
+Satoshi Ishii                       0.000
+Fahad Salman                        0.000
+Kate Williams                       0.000
+Jason Wishnov                       0.000
+Norma Mora                          0.000
+Denis Starkov                       0.000
+Lesley Joseph                       0.000
+René Sydow                          0.000
+Xavier Saint-Macary                 0.000
+Abella Wyss                         0.000
+Ursula Mohan                        0.000
+Miklós Nagy                         0.000
+Chia-Hung Tsai                      0.000
+Mandy Powers                        0.000
+Tatyana Bogdanova                   0.000
+Andrés Velencoso                    0.000
+Dionna Williams                     0.000
+Ahmad Zarabi                        0.000
+Lucille Vines                       0.000
+György Kálmán                       0.000
+Victoria Teijeiro                   0.000
+Stephanee LaFleur                   0.000
+Biggy van Blond                     0.000
+Larry David                         0.000
+Wally Uchida                        0.000
+Shane Helms                         0.000
+Darcy Ray Flavell-Hudson            0.000
+Christie Miró                       0.000
+Camila Bossa                        0.000
+Heiko Schaffartzik                  0.000
+Okan Tangücü                        0.000
+Dick Ranger                         0.000
+Haley Clair                         0.000
+Jean Leuvrais                       0.000
+Paola Rey                           0.000
+Ed O'Brien                          0.000
+Jan Szczepanski                     0.000
+Samuel Muller                       0.000
+Lisa Lampanelli                     0.000
+Yue-Ru Yu                           0.000
+Susan Olsen                         0.000
+Justine Sade                        0.000
+Lisa                                0.000
+Sanja Mikitisin                     0.000
+Dawid Pokusa                        0.000
+Aleksandr Tyutryumov                0.000
+Mikk Mägi                           0.000
+Kamber Dalçik                       0.000
+Jared Masters                       0.000
+Nidia de Paula                      0.000
+Robert Goulet                       0.000
+Erika Ender                         0.000
+Rainer Winkelvoss                   0.000
+Jasmine Woods                       0.000
+Cilla Thorell                       0.000
+Olle Sarri                          0.000
+David Daniels                       0.000
+Bill Viola                          0.000
+Carmen Electra                      0.000
+Bianca Berini                       0.000
+John Krasinski                      0.000
+Ulas Kilic                          0.000
+Isha Keskar                         0.000
+Lisa Daniels                        0.000
+Seden Kiziltunç                     0.000
+Martin Zauner                       0.000
+Kenyon Harris                       0.000
+J. Todd Adams                       0.000
+Tina Shek                           0.000
+Avril Leslie                        0.000
+Anne Mona Hansen                    0.000
+Skylar Porter                       0.000
+David Jessel                        0.000
+Will Clark                          0.000
+Nick East                           0.000
+Marcin Wlodarski                    0.000
+Abubakr Ali                         0.000
+Aurel Mertz                         0.000
+Kristina Kazinskaya                 0.000
+Ignasi P. Ferré                     0.000
+Jeremy Vine                         0.000
+György Hunyadkürthy                 0.000
+Freddy Sanchez                      0.000
+Jeremy Wallace                      0.000
+Theo Stockman                       0.000
+Lana Ettinger                       0.000
+Naina Ganguly                       0.000
+Mengjie Jiang                       0.000
+Scott Burkholder                    0.000
+Ece Hakim                           0.000
+Alfonso Freeman                     0.000
+Delia Scala                         0.000
+Maxim Busel                         0.000
+Justin Malachi                      0.000
+Dudley Moore                        0.000
+Christopher Cullen                  0.000
+Matthew Smalley                     0.000
+Jan Gajdos                          0.000
+Bjørn Næss                          0.000
+Billy Drago                         0.000
+Dallas Campbell                     0.000
+Roman Sinitsyn                      0.000
+Wieslaw Slawik                      0.000
+Stephen Condon                      0.000
+Sonya Kerr                          0.000
+Lucy Gaskell                        0.000
+Peter Cerovsek                      0.000
+John Ford Noonan                    0.000
+Kinuo Yamada                        0.000
+Abidin Yerebakan                    0.000
+Simon Cadell                        0.000
+Taiko Shinbashi                     0.000
+Israel Luna                         0.000
+Bartho Braat                        0.000
+Matej Portes                        0.000
+Yoo Seong-ju                        0.000
+Amy Clover                          0.000
+Neal Piron                          0.000
+Donovan Leitch Jr.                  0.000
+Ayelet'                             0.000
+Michael Mellinger                   0.000
+John McCririck                      0.000
+Ben Sidran                          0.000
+Aaron Charlton Smith                0.000
+Mark Rabiner                        0.000
+Inger Dietrichs                     0.000
+Tom Parker                          0.000
+Andreas Jancke                      0.000
+Scott Mills                         0.000
+Mary Ann Schmidt                    0.000
+Vasiliy Stepanov                    0.000
+Nami Matsukawa                      0.000
+Vitorino                            0.000
+Holger Czukay                       0.000
+Barun Sobti                         0.000
+Dmitriy Buteyev                     0.000
+Jan Jaap Janssen                    0.000
+Korkmaz Aslan                       0.000
+Olly Smith                          0.000
+Rachel Morris                       0.000
+Ankur Nayyar                        0.000
+Jean Doyon                          0.000
+Wladimir Tarasjanz                  0.000
+Barbara Alton                       0.000
+Dennis Bendersky                    0.000
+Jeff Bryan Davis                    0.000
+Jordan A. Smith                     0.000
+Tiffany Thornton                    0.000
+Susanne Holst                       0.000
+Brian J. Saville Allard             0.000
+Jeff Fuller                         0.000
+Klaus Pohl                          0.000
+Yuriy Potapenko                     0.000
+Leo Marian Vodicka                  0.000
+Adi Loehe                           0.000
+Ron Ackerman                        0.000
+Emilia Attías                       0.000
+Vanessa Figueroa                    0.000
+Teal Wicks                          0.000
+A.J. Estrada                        0.000
+Felix Magath                        0.000
+Garett Grow                         0.000
+Patricia Clarkson                   0.000
+Alexandre Ferreira                  0.000
+Józef Lotysz                        0.000
+Layna Landry                        0.000
+Giacomo Rossi Stuart                0.000
+Carlos Cuevas                       0.000
+Hanna Thiele                        0.000
+Jerry Harte                         0.000
+Nazli Senem Ünal                    0.000
+Kyoko Tsuruno                       0.000
+Byron Robertson                     0.000
+Kacper Olszewski                    0.000
+Chi-jan Hou                         0.000
+Audie Harrison                      0.000
+Tiia Louhevaara                     0.000
+Anna Chodakowska                    0.000
+China Chow                          0.000
+Melissa Sandvig                     0.000
+Lucian Iancu                        0.000
+Ana Otero                           0.000
+Lee Spencer                         0.000
+Merve Hazer                         0.000
+Tiffani Faison                      0.000
+Mika Kubo                           0.000
+Peter Kent                          0.000
+Michelle Gunn                       0.000
+Matthew Rosenberg                   0.000
+Costas Goldstone                    0.000
+Andrey Oliferenko                   0.000
+Gia Derza                           0.000
+Dominic Gould                       0.000
+Ngoc Tú Nguyen                      0.000
+Kenny Wallace                       0.000
+Nam Ji-hyun                         0.000
+Christopher Briney                  0.000
+Tank Williams                       0.000
+Iva Radivojevic                     0.000
+Paul Wall                           0.000
+Hollis Morrison                     0.000
+Bodie Cruz                          0.000
+Mark Louie                          0.000
+Jackson Odell                       0.000
+Karl-Dieter Möller                  0.000
+Darya Butkeeva                      0.000
+Audrey Kitching                     0.000
+Milos Bílek                         0.000
+
+Shortest Path from Amitabh Bachchan to Timothée Chalamet:
+Shortest path length from Amitabh Bachchan to Timothée Chalamet: 2
